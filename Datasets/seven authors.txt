@@ -1,0 +1,31 @@
+
+authors:
+
+Ella Wheeler Wilcox, 1850–1919, United States
+Rudyard Kipling, 1865–1936, England
+Emily Dickinson, 1830–1886, United States  
+Lord Byron, 1788–1824, England/Italy
+William Wordsworth, 1770–1850, England
+Walt Whitman, 1819–1892, United States 
+Thomas Hardy, 1840–1928, England
+
+-----------------------------------------
+
+With summaries and themes: "seven_authors_with_summaries_and_themes":
+
+300 poems of each author
+
+-----------------------------------------
+
+Without summaries and themes: "seven_authors_without_summaries_and_themes":
+
+Ella Wheeler Wilcox  - 599 poems
+Rudyard Kipling - 467 poems
+Emily Dickinson - 381 poems
+Lord Byron - 356 poems
+William Wordsworth - 355 poems
+Walt Whitman - 311 poems
+Thomas Hardy - 307 poems
+
+
+

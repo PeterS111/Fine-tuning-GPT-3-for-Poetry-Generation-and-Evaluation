@@ -1,0 +1,2756 @@
+Byron - 356 poems
+
+Byron_001.txt : When We Two Parted
+Byron_002.txt : Childe Harold's Pilgrimage [I stood in Venice]
+Byron_003.txt : The Giaour [Unquenched, unquenchable]
+Byron_004.txt : The Destruction Of Sennacherib
+Byron_005.txt : To Thomas Moore
+Byron_006.txt : Lines Inscribed Upon a Cup Formed from a Skull
+Byron_007.txt : She Walks in Beauty
+Byron_008.txt : Childe Harold's Pilgrimage [There is a pleasure in the pathless woods]
+Byron_009.txt : Epitaph to a Dog
+Byron_010.txt : Answer To A Beautiful Poem, Written By Montgomery, Author Of "The Wanderer Of Switzerland," Etc., Entitled "The Common Lot."
+Byron_011.txt : Answer To Some Elegant Verses Sent By A Friend To The Author, Complaining That One Of His Descriptions Was Rather Too Warmly Drawn.
+Byron_012.txt : Answer To The Foregoing, Addressed To Miss ----.
+Byron_013.txt : Lines Addressed To A Young Lady
+Byron_014.txt : Elegiac Stanzas On The Death Of Sir Peter Parker, Bart.
+Byron_015.txt : Epistle From Mr. Murray To Dr. Polidori
+Byron_016.txt : Epitaph For Joseph Blackett, Late Poet And Shoemaker
+Byron_017.txt : Epitaph On A Beloved Friend
+Byron_018.txt : Euthanasia
+Byron_019.txt : Fare Thee Well
+Byron_020.txt : Farewell To Malta
+Byron_021.txt : Farewell To The Muse
+Byron_022.txt : Farewell! If Ever Fondest Prayer
+Byron_023.txt : Fill The Goblet Again: A Song
+Byron_024.txt : Fragment Of An Epistle To Thomas Moore
+Byron_025.txt : From Anacreon
+Byron_026.txt : From Anacreon: 'Twas Now The Hour When Night Had Driven
+Byron_027.txt : From The Last Hill That Looks On Thy Once Holy Dome
+Byron_028.txt : From The Prometheus Vinctus Of Aeschylus
+Byron_029.txt : Herod's Lament For Mariamne
+Byron_030.txt : I Speak Not, I Trace Not, I Breathe Not Thy Name
+Byron_031.txt : I Would I Were A Careless Child
+Byron_032.txt : If Sometimes In The Haunts Of Men
+Byron_033.txt : If That High World
+Byron_034.txt : Impromptus
+Byron_035.txt : In The Valley Of The Waters
+Byron_036.txt : Inscription On The Monument Of A Newfoundland Dog
+Byron_037.txt : Jeptha's Daughter
+Byron_038.txt : Lachin Y Gair
+Byron_039.txt : Lines Addressed To A Young Lady
+Byron_040.txt : Lines Addressed To The Rev. J. T. Becher, On His Advising The Author To Mix More With Society
+Byron_041.txt : Lines Inscribed Upon A Cup Formed From A Skull
+Byron_042.txt : Lines On Mr. Hodgson Written On Board The Lisbon Packet
+Byron_043.txt : Lines Written Beneath An Elm In The Churchyard Of Harrow On The Hill, Sept. 2, 1807
+Byron_044.txt : Lines: Written In 'Letters Of An Italian Nun And An English Gentleman'
+Byron_045.txt : Love's Last Adieu
+Byron_046.txt : Maid Of Athens, Ere We Part
+Byron_047.txt : My Soul Is Dark
+Byron_048.txt : Napoleon's Farewell (From The French)
+Byron_049.txt : Oh! snatched away in beauty's bloom
+Byron_050.txt : On A Change Of Masters At A Great Public School
+Byron_051.txt : On A Distant View Of The Village And School Of The Harrow Hill
+Byron_052.txt : On A Nun
+Byron_053.txt : On Finding A Fan
+Byron_054.txt : On Leaving Newstead Abbey
+Byron_055.txt : On Parting
+Byron_056.txt : On Revisiting Harrow
+Byron_057.txt : On The Castle Of Chillon
+Byron_058.txt : On The Day Of The Destruction Of Jerusalem By Titus
+Byron_059.txt : On The Death Of A Young Lady
+Byron_060.txt : On The Death Of Mr. Fox
+Byron_061.txt : On The Star Of 'The Legion Of Honour' (From The French)
+Byron_062.txt : On This Day I Complete My Thirty-Sixth Year
+Byron_063.txt : One Struggle More, And I Am Free
+Byron_064.txt : Prometheus
+Byron_065.txt : Remember Him, Whom Passion's Power
+Byron_066.txt : Remind Me Not, Remind Me Not
+Byron_067.txt : Reply To Some Verses Of J.M.B. Pigot, Esq. On The Cruelty Of His Mistress
+Byron_068.txt : Saul
+Byron_069.txt : She Walks In Beauty
+Byron_070.txt : Solitude
+Byron_071.txt : Song For The Luddites
+Byron_072.txt : Song Of Saul, Before His Last Battle
+Byron_073.txt : Sonnet To George The Fourth, On The Repeal Of Lord Edward Fitzgerald's Forfeiture
+Byron_074.txt : Sonnet To Lake Leman
+Byron_075.txt : Sonnet, To Genevra
+Byron_076.txt : Sonnet, To The Same (Genevra)
+Byron_077.txt : Stanzas
+Byron_078.txt : Stanzas Composed During A Thunder-storm
+Byron_079.txt : Stanzas Composed During A Thunderstorm
+Byron_080.txt : Stanzas For Music: There's Not A Joy The World Can Give
+Byron_081.txt : Stanzas To A Hindoo Air
+Byron_082.txt : Stanzas To A Lady, On Leaving England
+Byron_083.txt : Stanzas To A Lady, With The Poems Of Camoëns
+Byron_084.txt : Stanzas To Augusta
+Byron_085.txt : Stanzas To Augusta (II.)
+Byron_086.txt : Stanzas To Jessy
+Byron_087.txt : Stanzas To The Po
+Byron_088.txt : Stanzas Written In Passing The Ambracian Gulf
+Byron_089.txt : Stanzas Written On The Road Between Florence And Pisa
+Byron_090.txt : The Chain I Gave: From The Turkish
+Byron_091.txt : The Cornelian
+Byron_092.txt : The Dark, Blue Sea
+Byron_093.txt : The Destruction Of Sennacherib
+Byron_094.txt : The Eve Of Waterloo
+Byron_095.txt : The First Kiss Of Love
+Byron_096.txt : The Harp The Monarch Minstrel Swept
+Byron_097.txt : The Isles Of Greece
+Byron_098.txt : The Prayer Of Nature
+Byron_099.txt : The Tear
+Byron_100.txt : The Wild Gazelle
+Byron_101.txt : There Was A Time, I Need Not Name
+Byron_102.txt : Thou Art Not False, But Thou Art Fickle
+Byron_103.txt : Thy Days Are Done
+Byron_104.txt : To A Beautiful Quaker
+Byron_105.txt : To A Lady
+Byron_106.txt : To A Lady, On Being Asked My Reasons For Quitting England In The Spring
+Byron_107.txt : To A Lady, Who Presented The Author With The Velvet Band Which Bound Her Tresses
+Byron_108.txt : To A Lady, Who Presented To The Author A Lock Of Hair Braided With His Own, And Appointed A Night In
+Byron_109.txt : To A Vain Lady
+Byron_110.txt : To An Oak At Newstead
+Byron_111.txt : To Anne
+Byron_112.txt : To Anne: Oh, Say Not, Sweet Anne
+Byron_113.txt : To Belshazzar
+Byron_114.txt : To Caroline
+Byron_115.txt : To Caroline: Oh When Shall The Grave Hide
+Byron_116.txt : To Caroline: When I Hear That You Express An Affection So Warm
+Byron_117.txt : To Eliza
+Byron_118.txt : To Emma
+Byron_119.txt : To Florence
+Byron_120.txt : To George, Earl Delwarr
+Byron_121.txt : To Lesbia
+Byron_122.txt : To Lord Thurlow
+Byron_123.txt : To M--
+Byron_124.txt : To M. S. G.
+Byron_125.txt : To M. S. G. : When I Dream That You Love Me
+Byron_126.txt : To Marion
+Byron_127.txt : To Mary, On Receiving Her Picture
+Byron_128.txt : To Mr. Murray
+Byron_129.txt : To Mr. Murray (Strahan, Tonson Lintot Of The Times)
+Byron_130.txt : To My Son
+Byron_131.txt : To Romance
+Byron_132.txt : To The Countess Of Blessington
+Byron_133.txt : To The Sighing Strephon
+Byron_134.txt : To Thomas Moore (My Boat Is On The Shore)
+Byron_135.txt : To Thyrza
+Byron_136.txt : To Thyrza: And Thou Art Dead, As Young And Fair
+Byron_137.txt : To Time
+Byron_138.txt : To Woman
+Byron_139.txt : To-- : From The French
+Byron_140.txt : Translation From Catullus
+Byron_141.txt : Translation From Horace
+Byron_142.txt : Translation From The Medea Of Euripides
+Byron_143.txt : Translation Of A Romaic Love Song
+Byron_144.txt : Translation Of The Famous Greek War Song
+Byron_145.txt : Translation Of The Romaic Song
+Byron_146.txt : Vision of Belshazzar
+Byron_147.txt : We Sate Down And Wept By The Waters
+Byron_148.txt : Well! Thou Art Happy
+Byron_149.txt : Were My Bosom As False as Thou Deem'st It To Be
+Byron_150.txt : When Coldness Wraps This Suffering Clay
+Byron_151.txt : When I Roved A Young Highlander
+Byron_152.txt : When We Two Parted
+Byron_153.txt : Written After Swimming From Sestos To Abydos
+Byron_154.txt : Prometheus
+Byron_155.txt : She Walks in Beauty
+Byron_156.txt : The Destruction of Sennacherib
+Byron_157.txt : from Don Juan: Canto 1, Stanzas 217-221
+Byron_158.txt : from Don Juan : Canto 1, Stanzas 41-42
+Byron_159.txt : from Don Juan: Canto 1, Stanzas 47-48
+Byron_160.txt : from Don Juan: Canto 1, Stanzas 60-63
+Byron_161.txt : And Thou art Dead, as Young and Fair
+Byron_162.txt : January 22nd, Missolonghi
+Byron_163.txt : Lines to Mr. Hodgson Written on Board the Lisbon Packet
+Byron_164.txt : Love and Death
+Byron_165.txt : 'All Is Vanity, Saieth the Preacher'
+Byron_166.txt : Aholibamah's Monologue
+Byron_167.txt : And Wilt Thou Weep When I Am Low?
+Byron_168.txt : Answer To A Beautiful Poem, Entitled 'The Common Lot'
+Byron_169.txt : Away, Away, Ye Notes Of Woe!
+Byron_170.txt : Bright Be The Place Of Thy Soul!
+Byron_171.txt : Churchill's Grave: A Fact Literally Rendered
+Byron_172.txt : Damætas
+Byron_173.txt : Churchill's Grave
+Byron_174.txt : Oh! Snatched Away In Beauty's Bloom
+Byron_175.txt : On Chillon
+Byron_176.txt : To Thomas Moore
+Byron_177.txt : To Thyrza: And Thou Art Dead
+Byron_178.txt : Lines, On Hearing That Lady Byron Was Ill
+Byron_179.txt : Lines Written Beneath An Elm In The Churchyard Of Harrow
+Byron_180.txt : My Soul is Dark
+Byron_181.txt : I Speak Not
+Byron_182.txt : By the Rivers of Babylon We Sat Down and Wept
+Byron_183.txt : Maid of Athens, ere we part
+Byron_184.txt : 'All Is Vanity,' Saith the Preacher
+Byron_185.txt : The Isles of Greece
+Byron_186.txt : Oh! Weep for Those
+Byron_187.txt : I Would I Were a Careless Child
+Byron_188.txt : And Thou Art Dead, As Young and Fair
+Byron_189.txt : Isles of Greece, The
+Byron_190.txt : Damжtas
+Byron_191.txt : Thou Whose Spell Can Raise the Dead
+Byron_192.txt : Sonnet to Lake Leman
+Byron_193.txt : Sonnet - to Genevra
+Byron_194.txt : To M
+Byron_195.txt : Song of Saul Before His Last Battle
+Byron_196.txt : On A Distant View Of Harrow
+Byron_197.txt : Reply to Some Verses of J.M.B. Pigot, Esq.
+Byron_198.txt : All Is Vanity, Saieth the Preacher
+Byron_199.txt : An Occasional Prologue, Delivered Previous To The Performance Of 'The Wheel Of Fortune' At A Private Theatre
+Byron_200.txt : And Wilt Thou Weep When I Am Low?
+Byron_201.txt : Answer To A Beautiful Poem, Entitled 'The Common Lot'
+Byron_202.txt : Answer To Some Elegant Verses Sent By A Friend To The Author, Complaining That One Of His Descriptions Was Rather Too Warmly Drawn
+Byron_203.txt : Away, Away, Ye Notes Of Woe!
+Byron_204.txt : Bright Be The Place Of Thy Soul!
+Byron_205.txt : Churchill's Grave: A Fact Literally Rendered
+Byron_206.txt : Condolatory Address To Sarah, Countess Of Jersey, On The Prince Regent's Returning Her Picture To Mrs. Mee
+Byron_207.txt : Damætas
+Byron_208.txt : Don Juan: Canto the Twelfth
+Byron_209.txt : Elegiac Stanzas On The Death Of Sir Peter Parker, Bart.
+Byron_210.txt : Epistle From Mr. Murray To Dr. Polidori
+Byron_211.txt : Epistle To A Friend, In Answer To Some Lines Exhorting The Author To Be Cheerful, And To Banish Care
+Byron_212.txt : Epistle To Mr. Murray
+Byron_213.txt : Epitaph For Joseph Blackett, Late Poet And Shoemaker
+Byron_214.txt : Epitaph On A Beloved Friend
+Byron_215.txt : Euthanasia
+Byron_216.txt : Fare Thee Well
+Byron_217.txt : Farewell To Malta
+Byron_218.txt : Farewell To The Muse
+Byron_219.txt : Farewell! If Ever Fondest Prayer
+Byron_220.txt : Fill The Goblet Again: A Song
+Byron_221.txt : Fragment Of An Epistle To Thomas Moore
+Byron_222.txt : From Anacreon
+Byron_223.txt : From Anacreon: 'Twas Now The Hour When Night Had Driven
+Byron_224.txt : From The Last Hill That Looks On Thy Once Holy Dome
+Byron_225.txt : From The Prometheus Vinctus Of Aeschylus
+Byron_226.txt : Herod's Lament For Mariamne
+Byron_227.txt : I Speak Not, I Trace Not, I Breathe Not Thy Name
+Byron_228.txt : I Would I Were a Careless Child
+Byron_229.txt : If Sometimes In The Haunts Of Men
+Byron_230.txt : If That High World
+Byron_231.txt : Impromptus
+Byron_232.txt : In The Valley Of The Waters
+Byron_233.txt : In the valley of the waters we wept o'er the day
+Byron_234.txt : Inscription On The Monument Of A Newfoundland Dog
+Byron_235.txt : Jeptha's Daughter
+Byron_236.txt : Lachin Y Gair
+Byron_237.txt : Lines Addressed To A Young Lady
+Byron_238.txt : Lines Addressed To The Rev. J. T. Becher, On His Advising The Author To Mix More With Society
+Byron_239.txt : Lines Inscribed Upon A Cup Formed From A Skull
+Byron_240.txt : Lines on Mr. Hodgson Written on Board the Lisbon Packet
+Byron_241.txt : Lines Written Beneath An Elm In The Churchyard Of Harrow On The Hill, Sept. 2, 1807
+Byron_242.txt : Lines, On Hearing That Lady Byron Was Ill
+Byron_243.txt : Lines: Written In 'Letters Of An Italian Nun And An English Gentleman'
+Byron_244.txt : Love's Last Adieu
+Byron_245.txt : Maid Of Athens, Ere We Part
+Byron_246.txt : Manfred (excerpt: Incantation)
+Byron_247.txt : My Soul is Dark
+Byron_248.txt : Napoleon's Farewell  (From The French)
+Byron_249.txt : Oh! snatched away in beauty's bloom
+Byron_250.txt : On A Change Of Masters At A Great Public School
+Byron_251.txt : On A Distant View Of The Village And School Of The Harrow Hill
+Byron_252.txt : On A Nun
+Byron_253.txt : On Chillon
+Byron_254.txt : On Finding A Fan
+Byron_255.txt : On Leaving Newstead Abbey
+Byron_256.txt : On Parting
+Byron_257.txt : On The Castle Of Chillon
+Byron_258.txt : On The Day Of The Destruction Of Jerusalem By Titus
+Byron_259.txt : On The Death Of A Young Lady
+Byron_260.txt : On The Death Of Mr. Fox
+Byron_261.txt : On The Star Of 'The Legion Of Honour' (From The French)
+Byron_262.txt : On this Day I Complete my Thirty-Sixth Year
+Byron_263.txt : One Struggle More, And I Am Free
+Byron_264.txt : Prometheus
+Byron_265.txt : Remember Him, Whom Passion's Power
+Byron_266.txt : Remind Me Not, Remind Me Not
+Byron_267.txt : Reply To Some Verses Of J.M.B. Pigot, Esq. On The Cruelty Of His Mistress
+Byron_268.txt : Saul
+Byron_269.txt : She Walks In Beauty
+Byron_270.txt : Solitude
+Byron_271.txt : Song For The Luddites
+Byron_272.txt : Song of Saul Before His Last Battle
+Byron_273.txt : Sonnet - to Genevra
+Byron_274.txt : Sonnet To George The Fourth, On The Repeal Of Lord Edward Fitzgerald's Forfeiture
+Byron_275.txt : Sonnet to Lake Leman
+Byron_276.txt : Sonnet, To Genevra
+Byron_277.txt : Sonnet, To The Same (Genevra)
+Byron_278.txt : Stanzas
+Byron_279.txt : Stanzas Composed During A Thunderstorm
+Byron_280.txt : Stanzas For Music: There's Not A Joy The World Can Give
+Byron_281.txt : Stanzas To A Hindoo Air
+Byron_282.txt : Stanzas To A Lady, On Leaving England
+Byron_283.txt : Stanzas To A Lady, With The Poems Of Camoëns
+Byron_284.txt : Stanzas To Augusta
+Byron_285.txt : Stanzas To Augusta (II.)
+Byron_286.txt : Stanzas To Jessy
+Byron_287.txt : Stanzas To The Po
+Byron_288.txt : Stanzas Written In Passing The Ambracian Gulf
+Byron_289.txt : Stanzas Written On The Road Between Florence And Pisa
+Byron_290.txt : The Chain I Gave: From The Turkish
+Byron_291.txt : The Cornelian
+Byron_292.txt : The Dark, Blue Sea
+Byron_293.txt : The Destruction of Sennacherib
+Byron_294.txt : The Eve Of Waterloo
+Byron_295.txt : The First Kiss Of Love
+Byron_296.txt : The Harp The Monarch Minstrel Swept
+Byron_297.txt : The Isles of Greece
+Byron_298.txt : The Prayer Of Nature
+Byron_299.txt : The Tear
+Byron_300.txt : The Wild Gazelle
+Byron_301.txt : There Was A Time, I Need Not Name
+Byron_302.txt : Thou Art Not False, But Thou Art Fickle
+Byron_303.txt : Thy Days Are Done
+Byron_304.txt : To-- : From The French
+Byron_305.txt : To A Beautiful Quaker
+Byron_306.txt : To A Lady
+Byron_307.txt : To A Lady, On Being Asked My Reasons For Quitting England In The Spring
+Byron_308.txt : To A Lady, Who Presented The Author With The Velvet Band Which Bound Her Tresses
+Byron_309.txt : To A Lady, Who Presented To The Author A Lock Of Hair Braided With His Own, And Appointed A Night In December To Meet Him In The Garden
+Byron_310.txt : To A Vain Lady
+Byron_311.txt : To An Oak At Newstead
+Byron_312.txt : To Anne
+Byron_313.txt : To Anne: Oh, Say Not, Sweet Anne
+Byron_314.txt : To Belshazzar
+Byron_315.txt : To Caroline
+Byron_316.txt : To Caroline: Oh When Shall The Grave Hide
+Byron_317.txt : To Caroline: When I Hear That You Express An Affection So Warm
+Byron_318.txt : To Eliza
+Byron_319.txt : To Emma
+Byron_320.txt : To Florence
+Byron_321.txt : To George, Earl Delwarr
+Byron_322.txt : To Lesbia
+Byron_323.txt : To Lord Thurlow
+Byron_324.txt : To M
+Byron_325.txt : To M. S. G.
+Byron_326.txt : To M. S. G. : When I Dream That You Love Me
+Byron_327.txt : To Marion
+Byron_328.txt : To Mary, On Receiving Her Picture
+Byron_329.txt : To Mr. Murray
+Byron_330.txt : To Mr. Murray (Strahan, Tonson Lintot Of The Times)
+Byron_331.txt : To My Son
+Byron_332.txt : To Romance
+Byron_333.txt : To The Author Of A Sonnet, Beginning, '
+Byron_334.txt : To The Countess Of Blessington
+Byron_335.txt : To The Sighing Strephon
+Byron_336.txt : To Thomas Moore
+Byron_337.txt : To Thomas Moore (My Boat Is On The Shore)
+Byron_338.txt : To Thomas Moore : Written The Evening Before His Visit To Mr. Leigh Hunt In Horsemonger Lane Gaol, May 19, 1813
+Byron_339.txt : To Thyrza
+Byron_340.txt : To Thyrza: And Thou Art Dead, As Young And Fair
+Byron_341.txt : To Time
+Byron_342.txt : To Woman
+Byron_343.txt : Translation From Catullus
+Byron_344.txt : Translation From Horace
+Byron_345.txt : Translation From The Medea Of Euripides
+Byron_346.txt : Translation Of A Romaic Love Song
+Byron_347.txt : Translation Of The Famous Greek War Song
+Byron_348.txt : Translation Of The Romaic Song
+Byron_349.txt : Vision of Belshazzar
+Byron_350.txt : We Sate Down And Wept By The Waters
+Byron_351.txt : Well! Thou Art Happy
+Byron_352.txt : Were My Bosom As False as Thou Deem'st It To Be
+Byron_353.txt : When Coldness Wraps This Suffering Clay
+Byron_354.txt : When I Roved A Young Highlander
+Byron_355.txt : When We Two Parted
+Byron_356.txt : Written After Swimming from Sestos to Abydos
+
+Dickinson - 381 poems
+
+Dickinson_001.txt : My Life had stood - a Loaded Gun
+Dickinson_002.txt : The Soul has Bandaged moments - (360)
+Dickinson_003.txt : Before I got my eye put out – (336)
+Dickinson_004.txt : This World is not Conclusion (373)
+Dickinson_005.txt : A Bird, came down the Walk - (359)
+Dickinson_006.txt : How many times these low feet staggered (238)
+Dickinson_007.txt : I felt a Funeral, in my Brain, (340)
+Dickinson_008.txt : I heard a Fly buzz - when I died - (591)
+Dickinson_009.txt : I started Early – Took my Dog – (656)
+Dickinson_010.txt : I would not paint — a picture — (348)
+Dickinson_011.txt : It sifts from Leaden Sieves - (291)
+Dickinson_012.txt : It was not Death, for I stood up, (355)
+Dickinson_013.txt : The Mushroom is the Elf of Plants - (1350)
+Dickinson_014.txt : My Life had stood - a Loaded Gun (764)
+Dickinson_015.txt : A narrow Fellow in the Grass (1096)
+Dickinson_016.txt : A single Screw of Flesh
+Dickinson_017.txt : A solemn thing - it was - I said
+Dickinson_018.txt : A Tongue - to tell Him I am true!
+Dickinson_019.txt : All these my banners be
+Dickinson_020.txt : An altered look about the hills
+Dickinson_021.txt : Arcturus
+Dickinson_022.txt : "Why do I love" You, Sir?
+Dickinson_023.txt : 'Tis so appalling - it exhilarates
+Dickinson_024.txt : A Mien to move a Queen
+Dickinson_025.txt : A precious Mouldering
+Dickinson_026.txt : Bereaved of all, I went abroad
+Dickinson_027.txt : By my Window have I for Scenery
+Dickinson_028.txt : Delayed till she had ceased to know
+Dickinson_029.txt : Delight is as the flight
+Dickinson_030.txt : Did you ever stand in a Cavern's Mouth
+Dickinson_031.txt : Don't put up my Thread and Needle
+Dickinson_032.txt : Doubt Me! My Dim Companion!
+Dickinson_033.txt : First Robin
+Dickinson_034.txt : Fitter to see Him, I may be
+Dickinson_035.txt : Have any like Myself
+Dickinson_036.txt : Her -- "last Poems" 
+Dickinson_037.txt : I am alive-I guess
+Dickinson_038.txt : I am ashamed-I hide
+Dickinson_039.txt : I Cannot Live With You
+Dickinson_040.txt : I cross till I am weary
+Dickinson_041.txt : I got so I could take his name
+Dickinson_042.txt : I have a King, who does not speak
+Dickinson_043.txt : Unto like Story -- Trouble has enticed me
+Dickinson_044.txt : We -- Bee and I -- live by the quaffing
+Dickinson_045.txt : We like March.
+Dickinson_046.txt : Wert Thou but ill -- that I might show thee
+Dickinson_047.txt : What care the Dead, for Chanticleer --
+Dickinson_048.txt : What mystery pervades a well!
+Dickinson_049.txt : What shall I do -- it whimpers so
+Dickinson_050.txt : When I was small, a Woman died --
+Dickinson_051.txt : When we stand on the tops of Things
+Dickinson_052.txt : Who were "the Father and the Son"
+Dickinson_053.txt : Why make it doubt -- it hurts it so
+Dickinson_054.txt : You know that Portrait in the Moon --
+Dickinson_055.txt : You said that I "was Great" -- one Day --
+Dickinson_056.txt : You'll find -- it when you try to die --
+Dickinson_057.txt : You'll know Her -- by Her Foot --
+Dickinson_058.txt : You've seen Balloons set -- Haven't You?
+Dickinson_059.txt : Your Riches -- taught me -- Poverty.
+Dickinson_060.txt : Because I could not stop for Death
+Dickinson_061.txt : I started Early -- Took my Dog --
+Dickinson_062.txt : Awake ye muses nine
+Dickinson_063.txt : A narrow Fellow in the Grass
+Dickinson_064.txt : I heard a Fly buzz -- when I died
+Dickinson_065.txt : I know where Wells grow-Droughtless Wells
+Dickinson_066.txt : You love me -- you are sure
+Dickinson_067.txt : "Sic transit gloria mundi"
+Dickinson_068.txt : I felt a Funeral, in my Brain,
+Dickinson_069.txt : There's been a Death, in the Opposite House,
+Dickinson_070.txt : It was not Death, for I stood up,
+Dickinson_071.txt : I cannot live with You --
+Dickinson_072.txt : If you were coming in the Fall,
+Dickinson_073.txt : My Life had stood -- a Loaded Gun --
+Dickinson_074.txt : I'll tell you how the Sun rose
+Dickinson_075.txt : This World is not Conclusion.
+Dickinson_076.txt : A Bird came down the Walk
+Dickinson_077.txt : I dreaded that first Robin, so,
+Dickinson_078.txt : It sifts from Leaden Sieves
+Dickinson_079.txt : I never told the buried gold
+Dickinson_080.txt : Bring me the sunset in a cup,
+Dickinson_081.txt : Death sets a Thing significant
+Dickinson_082.txt : I measure every Grief I meet
+Dickinson_083.txt : 'Twas just this time, last year, I died.
+Dickinson_084.txt : I had been hungry, all the Years --
+Dickinson_085.txt : Nature -- the Gentlest Mother is,
+Dickinson_086.txt : These are the days when Birds come back
+Dickinson_087.txt : We grow accustomed to the Dark
+Dickinson_088.txt : Behind Me -- dips Eternity --
+Dickinson_089.txt : The saddest noise, the sweetest noise,
+Dickinson_090.txt : To know just how He suffered -- would be dear --
+Dickinson_091.txt : What is -- "Paradise"
+Dickinson_092.txt : God gave a Loaf to every Bird --
+Dickinson_093.txt : Going to Him! Happy letter!
+Dickinson_094.txt : Her -- "last Poems"
+Dickinson_095.txt : How many times these low feet staggered
+Dickinson_096.txt : I am alive -- I guess
+Dickinson_097.txt : I can't tell you -- but you feel it
+Dickinson_098.txt : I felt my life with both my hands
+Dickinson_099.txt : I often passed the village
+Dickinson_100.txt : I see thee better -- in the Dark --
+Dickinson_101.txt : I should not dare to leave my friend,
+Dickinson_102.txt : I would not paint -- a picture --
+Dickinson_103.txt : I'm ceded -- I've stopped being Theirs --
+Dickinson_104.txt : On such a night, or such a night,
+Dickinson_105.txt : The farthest Thunder that I heard
+Dickinson_106.txt : Tie the Strings to my Life, My Lord,
+Dickinson_107.txt : "Arcturus" is his other name
+Dickinson_108.txt : 'Twas like a Maelstrom, with a notch,
+Dickinson_109.txt : A Drop Fell on the Apple Tree --
+Dickinson_110.txt : A Prison gets to be a friend --
+Dickinson_111.txt : All these my banners be.
+Dickinson_112.txt : Dear March -- Come in --
+Dickinson_113.txt : Glee -- The great storm is over --
+Dickinson_114.txt : Have you got a Brook in your little heart,
+Dickinson_115.txt : Heart, not so heavy as mine
+Dickinson_116.txt : I could suffice for Him, I knew --
+Dickinson_117.txt : I Years had been from Home
+Dickinson_118.txt : I'm sorry for the Dead -- Today --
+Dickinson_119.txt : In Ebon Box, when years have flown
+Dickinson_120.txt : It don't sound so terrible -- quite -- as it did
+Dickinson_121.txt : It feels a shame to be Alive
+Dickinson_122.txt : Me prove it now -- Whoever doubt
+Dickinson_123.txt : No Notice gave She, but a Change --
+Dickinson_124.txt : One Life of so much Consequence!
+Dickinson_125.txt : The Gentian weaves her fringes
+Dickinson_126.txt : The Soul has Bandaged moments --
+Dickinson_127.txt : The Tint I cannot take -- is best --
+Dickinson_128.txt : The Wind -- tapped like a tired Man
+Dickinson_129.txt : The Wind begun to rock the Grass
+Dickinson_130.txt : We don't cry -- Tim and I,
+Dickinson_131.txt : We dream -- it is good we are dreaming --
+Dickinson_132.txt : "Heaven" has different Signs -- to me --
+Dickinson_133.txt : 'Tis so appalling -- it exhilarates
+Dickinson_134.txt : 'Twas the old -- road -- through pain
+Dickinson_135.txt : A Murmur in the Trees -- to note
+Dickinson_136.txt : I meant to have but modest needs
+Dickinson_137.txt : A Pit -- but Heaven over it --
+Dickinson_138.txt : A precious -- mouldering pleasure -- 'tis
+Dickinson_139.txt : A solemn thing -- it was -- I said
+Dickinson_140.txt : A Solemn thing within the Soul
+Dickinson_141.txt : A Tongue -- to tell Him I am true!
+Dickinson_142.txt : Again -- his voice is at the door --
+Dickinson_143.txt : Alone and in a Circumstance
+Dickinson_144.txt : Because that you are going
+Dickinson_145.txt : Bereaved of all, I went abroad --
+Dickinson_146.txt : Better -- than Music! For I -- who heard it --
+Dickinson_147.txt : Bloom upon the Mountain -- stated --
+Dickinson_148.txt : Did you ever stand in a Cavern's Mouth --
+Dickinson_149.txt : Don't put up my Thread and Needle --
+Dickinson_150.txt : From Cocoon forth a Butterfly
+Dickinson_151.txt : Grief is a Mouse --
+Dickinson_152.txt : I met a King this afternoon!
+Dickinson_153.txt : Had I not This, or This, I said,
+Dickinson_154.txt : He gave away his Life --
+Dickinson_155.txt : He parts Himself -- like Leaves --
+Dickinson_156.txt : He touched me, so I live to know
+Dickinson_157.txt : How sick -- to wait -- in any place -- but thine
+Dickinson_158.txt : I am ashamed -- I hide
+Dickinson_159.txt : I cried at Pity -- not at Pain --
+Dickinson_160.txt : I did not reach Thee
+Dickinson_161.txt : I had no Cause to be awake --
+Dickinson_162.txt : I know where Wells grow -- Droughtless Wells
+Dickinson_163.txt : I learned -- at least -- what Home could be --
+Dickinson_164.txt : I live with Him -- I see His face
+Dickinson_165.txt : I play at Riches -- to appease
+Dickinson_166.txt : I prayed, at first, a little Girl,
+Dickinson_167.txt : I reckon -- when I count it all --
+Dickinson_168.txt : I rose -- because He sank --
+Dickinson_169.txt : I tend my flowers for thee
+Dickinson_170.txt : I think just how my shape will rise
+Dickinson_171.txt : I think the longest Hour of all
+Dickinson_172.txt : I think to Live -- may be a Bliss
+Dickinson_173.txt : I tie my Hat -- I crease my Shawl
+Dickinson_174.txt : I tried to think a lonelier Thing
+Dickinson_175.txt : I was the slightest in the House
+Dickinson_176.txt : I watched the Moon around the House
+Dickinson_177.txt : I'll clutch -- and clutch
+Dickinson_178.txt : I've dropped my Brain -- My Soul is numb --
+Dickinson_179.txt : If He were living -- dare I ask --
+Dickinson_180.txt : If I may have it, when it's dead,
+Dickinson_181.txt : It always felt to me -- a wrong
+Dickinson_182.txt : It bloomed and dropt, a Single Noon --
+Dickinson_183.txt : It ceased to hurt me, though so slow
+Dickinson_184.txt : It troubled me as once I was --
+Dickinson_185.txt : It was a quiet way --
+Dickinson_186.txt : It was given to me by the Gods
+Dickinson_187.txt : It will be Summer -- eventually.
+Dickinson_188.txt : It would have starved a Gnat --
+Dickinson_189.txt : It would never be Common -- more -- I said
+Dickinson_190.txt : It's thoughts -- and just One Heart
+Dickinson_191.txt : Joy to have merited the Pain --
+Dickinson_192.txt : Knows how to forget!
+Dickinson_193.txt : Let Us play Yesterday --
+Dickinson_194.txt : Love -- thou art high
+Dickinson_195.txt : Make me a picture of the sun
+Dickinson_196.txt : Most she touched me by her muteness --
+Dickinson_197.txt : My Faith is larger than the Hills --
+Dickinson_198.txt : My first well Day -- since many ill --
+Dickinson_199.txt : My period had come for Prayer --
+Dickinson_200.txt : My Portion is Defeat -- today --
+Dickinson_201.txt : No Brigadier throughout the Year
+Dickinson_202.txt : Not in this World to see his face
+Dickinson_203.txt : Of Brussels -- it was not --
+Dickinson_204.txt : Of nearness to her sundered Things
+Dickinson_205.txt : One Blessing had I than the rest
+Dickinson_206.txt : One of the ones that Midas touched
+Dickinson_207.txt : Ourselves were wed one summer -- dear --
+Dickinson_208.txt : Promise This -- When You be Dying --
+Dickinson_209.txt : Some Rainbow -- coming from the Fair!
+Dickinson_210.txt : Struck, was I, not yet by Lightning --
+Dickinson_211.txt : Sweet -- safe -- Houses
+Dickinson_212.txt : Tell as a Marksman -- were forgotten
+Dickinson_213.txt : The Angle of a Landscape
+Dickinson_214.txt : The Birds begun at Four o'clock --
+Dickinson_215.txt : The Birds reported from the South --
+Dickinson_216.txt : The Day came slow -- till Five o'clock
+Dickinson_217.txt : The face I carry with me -- last
+Dickinson_218.txt : The first Day's Night had come
+Dickinson_219.txt : The Frost of Death was on the Pane --
+Dickinson_220.txt : The Love a Life can show Below
+Dickinson_221.txt : The Malay -- took the Pearl
+Dickinson_222.txt : The Mushroom is the Elf of Plants --
+Dickinson_223.txt : The Night was wide, and furnished scant
+Dickinson_224.txt : The Skies can't keep their secret!
+Dickinson_225.txt : The Spirit lasts -- but in what mode --
+Dickinson_226.txt : The Sun kept setting -- setting -- still
+Dickinson_227.txt : The Trees like Tassels -- hit -- and swung --
+Dickinson_228.txt : The Way I read a Letter's -- this --
+Dickinson_229.txt : The Wind didn't come from the Orchard -- today
+Dickinson_230.txt : The World -- stands -- solemner -- to me
+Dickinson_231.txt : They called me to the Window, for
+Dickinson_232.txt : Those fair -- fictitious People
+Dickinson_233.txt : Three times -- we parted -- Breath -- and I --
+Dickinson_234.txt : I should have been too glad, I see
+Dickinson_235.txt : I think I was enchanted
+Dickinson_236.txt : I think to Live-may be a Bliss
+Dickinson_237.txt : I tie my Hat - I crease my Shawl
+Dickinson_238.txt : I'll clutch-and clutch
+Dickinson_239.txt : I'm sorry for the Dead -- Today
+Dickinson_240.txt : It always felt to me - a wrong
+Dickinson_241.txt : "It always felt to me—a wrong"
+Dickinson_242.txt : I had been hungry, all the Years
+Dickinson_243.txt : There's been a Death, in the Opposite House
+Dickinson_244.txt : Went Up A Year This Evening!
+Dickinson_245.txt : I felt a Funeral, in my Brain
+Dickinson_246.txt : My Life had stood—a Loaded Gun
+Dickinson_247.txt : I heard a Fly buzz -- when I died --
+Dickinson_248.txt : I cannot live with You
+Dickinson_249.txt : It was not death, for I stood up
+Dickinson_250.txt : Because I could not stop for Death,
+Dickinson_251.txt : I measure every grief I meet
+Dickinson_252.txt : It would never be Common-more-I said
+Dickinson_253.txt : IV: Rouge Gagne
+Dickinson_254.txt : Musicians wrestle everywhere
+Dickinson_255.txt : No Notice gave She, but a Change
+Dickinson_256.txt : Promise This-When You be Dying
+Dickinson_257.txt : Rearrange a "Wife's" affection!
+Dickinson_258.txt : Safe in their alabaster chambers,
+Dickinson_259.txt : Severer Service of myself
+Dickinson_260.txt : Sic transit gloria mundi
+Dickinson_261.txt : The Chariot
+Dickinson_262.txt : The Grass
+Dickinson_263.txt : The Tint I cannot take-is best
+Dickinson_264.txt : There is a morn by men unseen
+Dickinson_265.txt : They put Us far apart
+Dickinson_266.txt : To know just how He suffered-would be dear
+Dickinson_267.txt : Unto like Story-Trouble has enticed me
+Dickinson_268.txt : We don't cry-Tim and I
+Dickinson_269.txt : We Grow Accustomed to the Dark
+Dickinson_270.txt : Wert Thou but ill-that I might show thee
+Dickinson_271.txt : What would I give to see his face?
+Dickinson_272.txt : Whose are the little beds, I asked
+Dickinson_273.txt : You'll know Her - by Her Foot
+Dickinson_274.txt : I felt a Funeral, in my Brain (340)
+Dickinson_275.txt : Because I could not stop for Death – (479)
+Dickinson_276.txt : A Bird Came Down
+Dickinson_277.txt : A Murmur in the Trees—to note
+Dickinson_278.txt : A narrow fellow in the grass
+Dickinson_279.txt : A precious—mouldering pleasure
+Dickinson_280.txt : A Prison gets to be a friend
+Dickinson_281.txt : A something in a summer's Day
+Dickinson_282.txt : A Tongue—to tell Him I am true!
+Dickinson_283.txt : Again—his voice is at the door
+Dickinson_284.txt : Although I put away his life
+Dickinson_285.txt : An English Breeze
+Dickinson_286.txt : Awake ye muses nine, sing me a strain divine
+Dickinson_287.txt : Because I could not stop for Death (712)
+Dickinson_288.txt : Before I got my eye put out
+Dickinson_289.txt : Better—than Music! For I—who heard it
+Dickinson_290.txt : Bird
+Dickinson_291.txt : Bring me the sunset in a cup
+Dickinson_292.txt : By The Sea
+Dickinson_293.txt : Going to Heaven!
+Dickinson_294.txt : Going to him! Happy letter! Tell him--
+Dickinson_295.txt : Heaven
+Dickinson_296.txt : Heaven has different Signs—to me
+Dickinson_297.txt : Her Sweet turn to leave the Homestead
+Dickinson_298.txt : Home
+Dickinson_299.txt : How the old Mountains drip with Sunset
+Dickinson_300.txt : I am alive—I guess
+Dickinson_301.txt : I am ashamed—I hide
+Dickinson_302.txt : I bring an unaccustomed wine
+Dickinson_303.txt : I cannot dance upon my Toes
+Dickinson_304.txt : I cannot live with You (No. 640)
+Dickinson_305.txt : I cautious, scanned my little life
+Dickinson_306.txt : I cried at Pity—not at Pain
+Dickinson_307.txt : I dreaded that first Robin, so
+Dickinson_308.txt : I envy Seas, whereon He rides
+Dickinson_309.txt : I felt a Funeral, in my Brain (280)
+Dickinson_310.txt : I had a guinea golden
+Dickinson_311.txt : I had been hungry all the years-
+Dickinson_312.txt : I have a Bird in spring
+Dickinson_313.txt : I know some lonely Houses off the Road
+Dickinson_314.txt : I know where Wells grow—Droughtless Wells
+Dickinson_315.txt : I learned—at least—what Home could be
+Dickinson_316.txt : I measure every Grief I meet (561)
+Dickinson_317.txt : I play at Riches—to appease
+Dickinson_318.txt : I prayed, at first, a little Girl
+Dickinson_319.txt : I rose—because He sank
+Dickinson_320.txt : I started Early - Took my Dog
+Dickinson_321.txt : I think to Live—may be a Bliss
+Dickinson_322.txt : I tie my Hat—I crease my Shawl
+Dickinson_323.txt : I watched the Moon around the House (629)
+Dickinson_324.txt : I would not paint—a picture
+Dickinson_325.txt : I years had been from home,
+Dickinson_326.txt : If anybody's friend be dead
+Dickinson_327.txt : If I could bribe them by a Rose
+Dickinson_328.txt : If I may have it, when it's dead
+Dickinson_329.txt : If you were coming in the fall,
+Dickinson_330.txt : I'll clutch—and clutch
+Dickinson_331.txt : I'm saying every day
+Dickinson_332.txt : In Winter in my Room
+Dickinson_333.txt : It always felt to me—a wrong
+Dickinson_334.txt : It was not death, for I stood up,
+Dickinson_335.txt : It would never be Common—more—I said
+Dickinson_336.txt : It's thoughts—and just One Heart
+Dickinson_337.txt : Joy to have merited the Pain
+Dickinson_338.txt : Let Us play Yesterday
+Dickinson_339.txt : My first well Day—since many ill
+Dickinson_340.txt : My life had stood
+Dickinson_341.txt : Nature the gentlest mother is
+Dickinson_342.txt : Nature, the gentlest mother,
+Dickinson_343.txt : Of all the Sounds despatched abroad
+Dickinson_344.txt : On such a night, or such a night
+Dickinson_345.txt : One Sister have I in our house
+Dickinson_346.txt : One Year ago—jots what?
+Dickinson_347.txt : Promise This—When You be Dying
+Dickinson_348.txt : Some Rainbow—coming from the Fair!
+Dickinson_349.txt : T was just this time last year I died.
+Dickinson_350.txt : The Birds begun at Four o'clock
+Dickinson_351.txt : The Birds reported from the South
+Dickinson_352.txt : The Color of the Grave is Green
+Dickinson_353.txt : The feet of people walking home
+Dickinson_354.txt : The Grass so little has to do
+Dickinson_355.txt : The last Night that She lived
+Dickinson_356.txt : The Moon was but a Chin of Gold
+Dickinson_357.txt : The Soul has Bandaged moments
+Dickinson_358.txt : The Tint I cannot take—is best
+Dickinson_359.txt : The Trees like Tassels—hit—and swung
+Dickinson_360.txt : The Wind begun to knead the Grass
+Dickinson_361.txt : The wind begun to rock the grass
+Dickinson_362.txt : The Wind didn't come from the Orchard—today
+Dickinson_363.txt : There came a Day at Summer's full
+Dickinson_364.txt : There is a flower that Bees prefer
+Dickinson_365.txt : There's been a death in the opposite house
+Dickinson_366.txt : This Chasm, Sweet, upon my life
+Dickinson_367.txt : Tie the strings to my life, my Lord,
+Dickinson_368.txt : 'Tis so appalling—it exhilarates
+Dickinson_369.txt : 'Tis so much joy! 'Tis so much joy!
+Dickinson_370.txt : To know just how He suffered—would be dear
+Dickinson_371.txt : 'Twas just this time, last year, I died
+Dickinson_372.txt : 'Twas like a Maelstrom, with a notch
+Dickinson_373.txt : Unto like Story—Trouble has enticed me
+Dickinson_374.txt : We don't cry—Tim and I
+Dickinson_375.txt : Went up a year this evening!
+Dickinson_376.txt : Wert Thou but ill—that I might show thee
+Dickinson_377.txt : What care the Dead, for Chanticleer
+Dickinson_378.txt : When I hoped, I recollect
+Dickinson_379.txt : Who occupies this House?
+Dickinson_380.txt : You'll know Her—by Her Foot
+Dickinson_381.txt : Your Riches—taught me—Poverty
+
+Hardy - 307 poems
+
+Hardy_001.txt : [Greek Title]
+Hardy_002.txt : A Broken Appointment
+Hardy_003.txt : A Commonplace Day
+Hardy_004.txt : A Confession To A Friend in Trouble
+Hardy_005.txt : A Death-Day Recalled
+Hardy_006.txt : A Dream Or No
+Hardy_007.txt : A Jog-Trot Pair
+Hardy_008.txt : A King's Soliloquy [On the Night of His Funeral]
+Hardy_009.txt : A Man (In Memory of H. of M.)
+Hardy_010.txt : A Meeting With Despair
+Hardy_011.txt : A Poet
+Hardy_012.txt : A Sign-Seeker
+Hardy_013.txt : A Wasted Illness
+Hardy_014.txt : A Week
+Hardy_015.txt : A Wife in London (December, 1899)
+Hardy_016.txt : A Woman's Fancy
+Hardy_017.txt : After A Journey
+Hardy_018.txt : After The Visit
+Hardy_019.txt : Afterwards
+Hardy_020.txt : Ah, Are You Digging on My Grave?
+Hardy_021.txt : Amabel
+Hardy_022.txt : An Ancient to Ancients
+Hardy_023.txt : An Autumn Rain-Scene
+Hardy_024.txt : Aquae Sulis
+Hardy_025.txt : At A Bridal
+Hardy_026.txt : At A House In Hampstead Sometime The Dwelling Of John Keats
+Hardy_027.txt : At An Inn
+Hardy_028.txt : At Castle Boterel
+Hardy_029.txt : At Lulworth Cove a Century Back
+Hardy_030.txt : At Moonrise And Onwards
+Hardy_031.txt : At the Railway Station, Upways
+Hardy_032.txt : Barthelemon At Vauxhall
+Hardy_033.txt : Beeny Cliff
+Hardy_034.txt : Before And After Summer
+Hardy_035.txt : Between Us Now
+Hardy_036.txt : By the Earth's Corpse
+Hardy_037.txt : Catullus: XXXI
+Hardy_038.txt : Channel Firing
+Hardy_039.txt : Convergence Of The Twain
+Hardy_040.txt : Departure (Southampton Docks: October, 1899)
+Hardy_041.txt : Departure.
+Hardy_042.txt : Ditty
+Hardy_043.txt : Domicilium
+Hardy_044.txt : Doom and She
+Hardy_045.txt : During Wind and Rain
+Hardy_046.txt : Embarcation
+Hardy_047.txt : Embarcation (Southampton Docks: October, 1899)
+Hardy_048.txt : Fragment
+Hardy_049.txt : Friends Beyond
+Hardy_050.txt : From: Men Who March Away
+Hardy_051.txt : Genoa and the Mediterranean (March, 1887)
+Hardy_052.txt : Genoa and the Mediterranean.
+Hardy_053.txt : George Meredith
+Hardy_054.txt : God-Forgotten
+Hardy_055.txt : Had You Wept
+Hardy_056.txt : Hap
+Hardy_057.txt : He Never Expected Much
+Hardy_058.txt : Heiress And Architect
+Hardy_059.txt : Her Dilemma
+Hardy_060.txt : Her Immortality
+Hardy_061.txt : Her Late Husband (King's-Hintock, 182-.)
+Hardy_062.txt : Her Reproach
+Hardy_063.txt : Her Song
+Hardy_064.txt : His Immortality
+Hardy_065.txt : His Visitor
+Hardy_066.txt : I Found Her Out There
+Hardy_067.txt : I have lived with Shades
+Hardy_068.txt : I Need Not Go
+Hardy_069.txt : I Rose Up As My Custom Is
+Hardy_070.txt : I said to Love
+Hardy_071.txt : I Said to Love.
+Hardy_072.txt : I Sometimes Think
+Hardy_073.txt : In A Eweleaze Near Weatherbury
+Hardy_074.txt : In a Wood
+Hardy_075.txt : In A Wook
+Hardy_076.txt : In Front Of The Landscape
+Hardy_077.txt : In Tenebris
+Hardy_078.txt : In The British Museum
+Hardy_079.txt : In The Days Of Crinoline
+Hardy_080.txt : In The Moonlight
+Hardy_081.txt : In the Old Theatre, Fiesole (April, 1887)
+Hardy_082.txt : In The Old Theatre, Fiesole.
+Hardy_083.txt : In The Servants' Quarters
+Hardy_084.txt : In The Vaulted Way
+Hardy_085.txt : In Vision I Roamed
+Hardy_086.txt : Jezreel
+Hardy_087.txt : Lament
+Hardy_088.txt : Last Words to a Dumb Friend
+Hardy_089.txt : Let Me Enjoy
+Hardy_090.txt : Lines
+Hardy_091.txt : Lines On The Loss Of The "Titanic"
+Hardy_092.txt : Long Plighted
+Hardy_093.txt : Men Who March Away
+Hardy_094.txt : Middle-Age Enthusiasms
+Hardy_095.txt : Midnight on the Great Western
+Hardy_096.txt : Mismet
+Hardy_097.txt : Moments of Vision
+Hardy_098.txt : Nature's Questioning
+Hardy_099.txt : Near Lanivet 1872
+Hardy_100.txt : Neutral Tones
+Hardy_101.txt : Night in the Old Home
+Hardy_102.txt : No Buyers
+Hardy_103.txt : On an Invitation to the United States.
+Hardy_104.txt : Places
+Hardy_105.txt : Revulsion
+Hardy_106.txt : Rom: On the Palatine (April, 1887)
+Hardy_107.txt : Rome at the Pyramid of Cestius Near the Graves of Shelley and Keats (1887)
+Hardy_108.txt : Rome: At the Pyramid of Cestius. (Near the graves of Shelley & Keats)
+Hardy_109.txt : Rome: On the Palatine.
+Hardy_110.txt : Rome: The Vatican--Sala Delle Muse (1887)
+Hardy_111.txt : Satires of Circumstance in Fifteen Glimpses VIII: In the St
+Hardy_112.txt : Self- Unconscious
+Hardy_113.txt : She Charged Me
+Hardy_114.txt : She Hears The Storm
+Hardy_115.txt : She Hears the Storm
+Hardy_116.txt : She, To Him
+Hardy_117.txt : She, To Him III
+Hardy_118.txt : She, To Him IV
+Hardy_119.txt : She, to Him, I
+Hardy_120.txt : She, to Him, II
+Hardy_121.txt : She, to Him, III
+Hardy_122.txt : She, to Him, IV
+Hardy_123.txt : Shelley's Skylark (The neighbourhood of Leghorn: March, 1887)
+Hardy_124.txt : Shelley's Skylark.
+Hardy_125.txt : Song of the Soldiers
+Hardy_126.txt : Song of the Soldier's Wifes.
+Hardy_127.txt : Tess's Lament
+Hardy_128.txt : The Bedridden Peasant to an Unknown God
+Hardy_129.txt : The Bridge of Lodi (Spring, 1887)
+Hardy_130.txt : The Bridge of Lodi.
+Hardy_131.txt : The Bullfinches
+Hardy_132.txt : The Caged Thrush Freed and Home Again (Villanelle)
+Hardy_133.txt : The Casterbridge Captains
+Hardy_134.txt : The Cave of the Unborn
+Hardy_135.txt : The Cheval-Glass
+Hardy_136.txt : The Church-Builder
+Hardy_137.txt : The Colonel's Soliloquy (Southampton Docks: October, 1899)
+Hardy_138.txt : The Colonel's Solilquy.
+Hardy_139.txt : The Contretemps
+Hardy_140.txt : The Convergence Of The Twain
+Hardy_141.txt : The Coquette, and After (Triolets)
+Hardy_142.txt : The Coronation
+Hardy_143.txt : The Curtains Now Are Drawn
+Hardy_144.txt : The Dame of Athelhall
+Hardy_145.txt : The Darkling Thrush
+Hardy_146.txt : The Dead Man Walking
+Hardy_147.txt : The Death Of Regret
+Hardy_148.txt : The Elopement
+Hardy_149.txt : The Ghost of the Past
+Hardy_150.txt : The Going
+Hardy_151.txt : The Going Of The Battery
+Hardy_152.txt : The Going of the Battery Wives. (Lament)
+Hardy_153.txt : The Haunter
+Hardy_154.txt : The House of Hospitalities
+Hardy_155.txt : The Impercipient
+Hardy_156.txt : The Ivy-Wife
+Hardy_157.txt : The Jubilee Of A Magazine:(To The Editor)
+Hardy_158.txt : The King's Experiment
+Hardy_159.txt : The Lacking Sense Scene.--A sad-coloured landscape, Waddon Vale
+Hardy_160.txt : The Last Chrysanthemum
+Hardy_161.txt : The Levelled Churchyard
+Hardy_162.txt : The Maid of Keinton Mandeville (A Tribute To Sir H. Bishop)
+Hardy_163.txt : The Man He Killed
+Hardy_164.txt : The Masked Face
+Hardy_165.txt : The Master And The Leaves
+Hardy_166.txt : The Milkmaid
+Hardy_167.txt : The Missed Train
+Hardy_168.txt : The Mother Mourns
+Hardy_169.txt : The Mother Mourns.
+Hardy_170.txt : The Moth-Signal (On Egdon Heath)
+Hardy_171.txt : The Newcomer's Wife
+Hardy_172.txt : The Night Of Trafalgar
+Hardy_173.txt : The Oxen
+Hardy_174.txt : The Phantom Horsewoman.
+Hardy_175.txt : The Pity Of It
+Hardy_176.txt : The Rambler
+Hardy_177.txt : The Recalcitrants
+Hardy_178.txt : The Respectable Burgher on "The Higher Criticism"
+Hardy_179.txt : The Roman Gravemounds
+Hardy_180.txt : The Ruined Maid
+Hardy_181.txt : The Satin Shoes
+Hardy_182.txt : The Sergeant's Song
+Hardy_183.txt : The Shadow On The Stone
+Hardy_184.txt : The Sick God
+Hardy_185.txt : The Sleep-Worker
+Hardy_186.txt : The Slow Nature
+Hardy_187.txt : The Spell Of The Rose
+Hardy_188.txt : The Stranger's Song
+Hardy_189.txt : The Subalterns
+Hardy_190.txt : The Telegram
+Hardy_191.txt : The Temporary The All
+Hardy_192.txt : The Tenant-For-Life
+Hardy_193.txt : The To-Be-Forgotten
+Hardy_194.txt : The Tree: An Old Man's Story
+Hardy_195.txt : The Two Soldiers
+Hardy_196.txt : The Voice
+Hardy_197.txt : The Well-Beloved
+Hardy_198.txt : The West-Of-Wessex Girl
+Hardy_199.txt : The Widow
+Hardy_200.txt : The Wistful Lady
+Hardy_201.txt : The Workbox
+Hardy_202.txt : The Year's Awakening
+Hardy_203.txt : Then and Now
+Hardy_204.txt : Thought Of Ph---a At News Of Her Death
+Hardy_205.txt : Thoughts of Phena
+Hardy_206.txt : To A Lady
+Hardy_207.txt : To an Unborn Pauper Child
+Hardy_208.txt : To Lizbie Browne
+Hardy_209.txt : To Meet, Or Otherwise
+Hardy_210.txt : To Outer Nature
+Hardy_211.txt : Tolerance
+Hardy_212.txt : Under the Waterfall
+Hardy_213.txt : Unknowing
+Hardy_214.txt : Valenciennes
+Hardy_215.txt : We Are Getting to the End
+Hardy_216.txt : Weathers
+Hardy_217.txt : Welcome Home
+Hardy_218.txt : Your Last Drive
+Hardy_219.txt : Zermat: To the Matterhorn (June-July, 1897)
+Hardy_220.txt : Zermatt to the Matterhorn.
+Hardy_221.txt : A Backward Spring
+Hardy_222.txt : A Call To National Service
+Hardy_223.txt : A Church Romance
+Hardy_224.txt : The Phantom Horsewoman
+Hardy_225.txt : The Pity of It
+Hardy_226.txt : Rain on a Grave
+Hardy_227.txt : Satires of Circumstance in Fifteen Glimpses VIII: In the Study
+Hardy_228.txt : The Shadow on the Stone
+Hardy_229.txt : Before Marching and After
+Hardy_230.txt : The To-be-forgotten
+Hardy_231.txt : The Chosen
+Hardy_232.txt : The Convergence of the Twain
+Hardy_233.txt : England to Germany in 1914
+Hardy_234.txt : And There Was a Great Calm
+Hardy_235.txt : I Looked Up from My Writing
+Hardy_236.txt : The Last Performance
+Hardy_237.txt : A New Year's Eve in War Time
+Hardy_238.txt : On the Belgian Expatriation
+Hardy_239.txt : An Ancient To Ancients
+Hardy_240.txt : At Lulworth Cove A Century Back
+Hardy_241.txt : At The Railway Station, Upways
+Hardy_242.txt : Beeny Cliff [March 1870 - March 1913]
+Hardy_243.txt : Departure
+Hardy_244.txt : During Wind And Rain
+Hardy_245.txt : Genoa And The Mediterranean.
+Hardy_246.txt : I Have Lived With Shades
+Hardy_247.txt : I Said To Love
+Hardy_248.txt : In A Wood
+Hardy_249.txt : In The Old Theatre, Fiesole
+Hardy_250.txt : Last Words To A Dumb Friend
+Hardy_251.txt : Midnight On The Great Western
+Hardy_252.txt : Moments Of Vision
+Hardy_253.txt : Night In The Old Home
+Hardy_254.txt : On An Invitation To The United States
+Hardy_255.txt : Rain On A Grave
+Hardy_256.txt : Read By Moonlight
+Hardy_257.txt : Regret Not Me
+Hardy_258.txt : Rome: At the Pyramid Of Cestius. (Near The Graves Of Shelley & Keats)
+Hardy_259.txt : Rome: On The Palatine
+Hardy_260.txt : Rome: The Vatican-Sala Delle Muse.
+Hardy_261.txt : Satires Of Circumstance In Fifteen Glimpses: In The Study
+Hardy_262.txt : She, To Him, I
+Hardy_263.txt : She, To Him, II
+Hardy_264.txt : She, To Him, III
+Hardy_265.txt : She, To Him, IV
+Hardy_266.txt : Song Of The Soldier's Wives.
+Hardy_267.txt : St Launce's Revisited
+Hardy_268.txt : Starlings On The Roof
+Hardy_269.txt : Summer Schemes
+Hardy_270.txt : The Bridge Of Lodi
+Hardy_271.txt : The Cave Of The Unborn
+Hardy_272.txt : The Colonel's Soliloquy
+Hardy_273.txt : The Ghost Of The Past
+Hardy_274.txt : The Going Of The Battery [Wive's Lament November 2nd 1899]
+Hardy_275.txt : The House Of Hospitalities
+Hardy_276.txt : The Sick God.
+Hardy_277.txt : Then And Now
+Hardy_278.txt : Thoughts of Phena at the News of Her Death
+Hardy_279.txt : To An Unborn Pauper Child
+Hardy_280.txt : Under The Waterfall
+Hardy_281.txt : Zermatt To The Matterhorn.
+Hardy_282.txt : "I Sometimes Think"
+Hardy_283.txt : "The Curtains Now Are Drawn"
+Hardy_284.txt : A Confession To A Friend In Trouble
+Hardy_285.txt : A Wife In London
+Hardy_286.txt : Ah, Are You Digging On My Grave?
+Hardy_287.txt : The Choirmaster's Burial
+Hardy_288.txt : "I Need Not Go"
+Hardy_289.txt : Shelley's Skylark (The neighbourhood of Leghorn: March)
+Hardy_290.txt : Thoughts Of Phena
+Hardy_291.txt : (As sung by Mr. Charles Charrington in the play of "The Three Wayfarers")
+Hardy_292.txt : "I Said to Love"
+Hardy_293.txt : Rome at the Pyramid of Cestius Near the Graves of Shelley and Keats
+Hardy_294.txt : "Between Us Now"
+Hardy_295.txt : "I Have Lived With Shades"
+Hardy_296.txt : San Sebastian
+Hardy_297.txt : Lausanne, In Gibbon's Old Garden: 11-12 p.m.
+Hardy_298.txt : The Colonel's Solilquy
+Hardy_299.txt : On an Invitation to the United States
+Hardy_300.txt : Rom: On the Palatine
+Hardy_301.txt : In Front of the Landscape
+Hardy_302.txt : After the Visit
+Hardy_303.txt : To Meet, or Otherwise
+Hardy_304.txt : The night of Trafalgar
+Hardy_305.txt : A Commonplace Day.
+Hardy_306.txt : Lines On The Loss Of The
+Hardy_307.txt : A Wife in London
+
+Kipling - 467 poems
+
+Kipling_001.txt : A Ballad of Burial
+Kipling_002.txt : A Ballade of Jakko Hill
+Kipling_003.txt : A Boy Scouts' Patrol Song
+Kipling_004.txt : A British-Roman Song
+Kipling_005.txt : A Carol
+Kipling_006.txt : A Charm
+Kipling_007.txt : A Child's Garden
+Kipling_008.txt : A Code of Morals
+Kipling_009.txt : A Death-Bed
+Kipling_010.txt : A Dedication
+Kipling_011.txt : A Dedication to Soldiers Three
+Kipling_012.txt : A Departure
+Kipling_013.txt : A General Summary
+Kipling_014.txt : A Legend of Truth
+Kipling_015.txt : A Nativity
+Kipling_016.txt : A Pageant of Elizabeth
+Kipling_017.txt : A Pict Song
+Kipling_018.txt : A Pilgrim's Way
+Kipling_019.txt : A Preface
+Kipling_020.txt : A Recantation
+Kipling_021.txt : A Rector's Memory
+Kipling_022.txt : A Ripple Song
+Kipling_023.txt : A School Song
+Kipling_024.txt : A Servant When He Reigneth
+Kipling_025.txt : A Smuggler's Song
+Kipling_026.txt : A Song in Storm
+Kipling_027.txt : A Song of Kabir
+Kipling_028.txt : A Song of the English
+Kipling_029.txt : Alnaschar and the Oxen
+Kipling_030.txt : An American
+Kipling_031.txt : An Astrologer's Song
+Kipling_032.txt : An Old Song
+Kipling_033.txt : Anchor Song
+Kipling_034.txt : Angutivaun Taina
+Kipling_035.txt : Arithmetic on the Frontier
+Kipling_036.txt : Army Headquarters
+Kipling_037.txt : As the Bell Clinks
+Kipling_038.txt : At His Execution
+Kipling_039.txt : Azrael's Count
+Kipling_040.txt : Banquet Night
+Kipling_041.txt : Beast and Man in India
+Kipling_042.txt : Before a Midnight Breaks in Storm
+Kipling_043.txt : Belts
+Kipling_044.txt : Bill 'Awkins
+Kipling_045.txt : Birds Of Prey March
+Kipling_046.txt : Bobs
+Kipling_047.txt : Boots
+Kipling_048.txt : Bridge-Guard in the Karroo
+Kipling_049.txt : Brookland Road
+Kipling_050.txt : Brown Bess
+Kipling_051.txt : Buddha at Kamakura
+Kipling_052.txt : Butterflies
+Kipling_053.txt : By the Hoof of the Wild Goat
+Kipling_054.txt : Carmen Circulare
+Kipling_055.txt : Cells
+Kipling_056.txt : Christmas in India
+Kipling_057.txt : Cities and Thrones and Powers
+Kipling_058.txt : Cold Iron
+Kipling_059.txt : Contradictions
+Kipling_060.txt : Covenant
+Kipling_061.txt : Cruisers
+Kipling_062.txt : Cuckoo Song
+Kipling_063.txt : Dane-Geld
+Kipling_064.txt : Danny Deever
+Kipling_065.txt : Darzee's Chount
+Kipling_066.txt : Dedication
+Kipling_067.txt : Deep Sea Cables
+Kipling_068.txt : Delilah
+Kipling_069.txt : Dinah in Heaven
+Kipling_070.txt : Dirge Of The Dead Sisters
+Kipling_071.txt : Divided Destinies
+Kipling_072.txt : Eddi's Service
+Kipling_073.txt : Edgehill Fight
+Kipling_074.txt : En-Dor
+Kipling_075.txt : England's Answer
+Kipling_076.txt : Farewell and adieu....
+Kipling_077.txt : Follow Me 'Ome
+Kipling_078.txt : For All We Have and Are
+Kipling_079.txt : For To Admire
+Kipling_080.txt : Ford O' Kabul River
+Kipling_081.txt : Fox-Hunting
+Kipling_082.txt : Frankie's Trade
+Kipling_083.txt : Fuzzy-Wuzzy
+Kipling_084.txt : Gallio's Song
+Kipling_085.txt : Gehazi
+Kipling_086.txt : General Joubert
+Kipling_087.txt : Gentlemen-Rankers
+Kipling_088.txt : Gertrude's Prayer
+Kipling_089.txt : Gethsemane
+Kipling_090.txt : Giffen's Debt
+Kipling_091.txt : Gipsy Vans
+Kipling_092.txt : Gods of the East
+Kipling_093.txt : Great-Heart
+Kipling_094.txt : Gypsy Vans
+Kipling_095.txt : Hadramauti
+Kipling_096.txt : Half-Ballad of Waterval
+Kipling_097.txt : Harp Song of the Dane Women
+Kipling_098.txt : Have You News of my Boy Jack?
+Kipling_099.txt : Helen All Alone
+Kipling_100.txt : Heriot's Ford
+Kipling_101.txt : His Apologies
+Kipling_102.txt : How the Camel Got His Hump
+Kipling_103.txt : How the Leopard Got His Spots
+Kipling_104.txt : Hunting Song of the Seeonee Pack
+Kipling_105.txt : Hymn Before Action
+Kipling_106.txt : Hymn to Physical Pain
+Kipling_107.txt : I Keep Six Honest...
+Kipling_108.txt : If
+Kipling_109.txt : In Springtime
+Kipling_110.txt : In the Matter of One Compass
+Kipling_111.txt : In The Neolithic Age
+Kipling_112.txt : Jane's Marriage
+Kipling_113.txt : Jubal and Tubal Cain
+Kipling_114.txt : Justice
+Kipling_115.txt : Kaa’s Hunting
+Kipling_116.txt : Lady Geraldine's Hardship
+Kipling_117.txt : Late Came the God
+Kipling_118.txt : L'envoi To "Life's Handicap"
+Kipling_119.txt : Lichtenberg
+Kipling_120.txt : London Stone
+Kipling_121.txt : Lord Roberts
+Kipling_122.txt : Lukannon
+Kipling_123.txt : Macdonough's Song
+Kipling_124.txt : Mandalay
+Kipling_125.txt : Mary, Pity Women!
+Kipling_126.txt : Mary's Son
+Kipling_127.txt : Memories
+Kipling_128.txt : Merrow Down
+Kipling_129.txt : Mesopotamia
+Kipling_130.txt : Mine-Sweepers
+Kipling_131.txt : Mowgli's Song Against People
+Kipling_132.txt : Municipal
+Kipling_133.txt : My Boy Jack
+Kipling_134.txt : My Father's Chair
+Kipling_135.txt : My Lady's Law
+Kipling_136.txt : My New-Cut Ashlar
+Kipling_137.txt : My Rival
+Kipling_138.txt : Natural Theology
+Kipling_139.txt : Neighbours
+Kipling_140.txt : Norman and Saxon
+Kipling_141.txt : Old Mother Laidinwool
+Kipling_142.txt : Oonts
+Kipling_143.txt : Our Fathers Also
+Kipling_144.txt : Our Fathers of Old
+Kipling_145.txt : Outsong in the Jungle
+Kipling_146.txt : Pagett, M.P.
+Kipling_147.txt : Pan in Vermont
+Kipling_148.txt : Parade-Song of the Camp-Animals
+Kipling_149.txt : Philadelphia
+Kipling_150.txt : Pink Dominoes
+Kipling_151.txt : Poor Honest Men
+Kipling_152.txt : Poseidon's Law
+Kipling_153.txt : Possibilities
+Kipling_154.txt : Prophets at Home
+Kipling_155.txt : Public Waste
+Kipling_156.txt : Puck's Song
+Kipling_157.txt : Quiquern
+Kipling_158.txt : Rebirth
+Kipling_159.txt : Recessional
+Kipling_160.txt : Recessional (A Victorian Ode)
+Kipling_161.txt : Rimini
+Kipling_162.txt : Rimmon
+Kipling_163.txt : Road Song of the Bandar-Log
+Kipling_164.txt : Romulus and Remus
+Kipling_165.txt : Route Marchin'
+Kipling_166.txt : Russia to the Pacifists
+Kipling_167.txt : Sappers
+Kipling_168.txt : Sea-Wife
+Kipling_169.txt : Sestina Of The Tramp-Royal
+Kipling_170.txt : Shillin' A Day
+Kipling_171.txt : Sir Richard's Song
+Kipling_172.txt : Snarleyow
+Kipling_173.txt : Soldier, Soldier
+Kipling_174.txt : Song of the Fifth River
+Kipling_175.txt : Song of the Galley Slaves
+Kipling_176.txt : Song of the Red War-Boat
+Kipling_177.txt : Tarrant Moss
+Kipling_178.txt : That Day
+Kipling_179.txt : The  Ballad of Jakko Hill
+Kipling_180.txt : The American Rebellion
+Kipling_181.txt : The Answer
+Kipling_182.txt : The Ballad of Minepit Shaw
+Kipling_183.txt : The Ballad of the Red Earl
+Kipling_184.txt : The Bee-Boy's Song
+Kipling_185.txt : The Bees and Flies
+Kipling_186.txt : The Beginner
+Kipling_187.txt : The Beginning
+Kipling_188.txt : The Beginning of the Armadilloes
+Kipling_189.txt : The Beginnings
+Kipling_190.txt : The Bell Buoy
+Kipling_191.txt : The Bells and Queen Victoria
+Kipling_192.txt : The Benefactors
+Kipling_193.txt : The Birthright
+Kipling_194.txt : The Bother
+Kipling_195.txt : The Boy Scouts' Patrol Song
+Kipling_196.txt : The Broken Men
+Kipling_197.txt : The Burden
+Kipling_198.txt : The Burial
+Kipling_199.txt : The Camels Hump
+Kipling_200.txt : The Captive
+Kipling_201.txt : The Centaurs
+Kipling_202.txt : The Changelings
+Kipling_203.txt : The Children
+Kipling_204.txt : The Children's Song
+Kipling_205.txt : The Choice (The American Spirit Speaks)
+Kipling_206.txt : The City of Sleep
+Kipling_207.txt : The Coastwise Lights
+Kipling_208.txt : The Coiner
+Kipling_209.txt : The Comforters
+Kipling_210.txt : The Consolations of Memory
+Kipling_211.txt : The Conundrum Of The Workshops
+Kipling_212.txt : The Covenant
+Kipling_213.txt : The Crab That Played with the Sea
+Kipling_214.txt : The Craftsman
+Kipling_215.txt : The Cure
+Kipling_216.txt : The Dawn Wind
+Kipling_217.txt : The Declaration of London
+Kipling_218.txt : The Deep-Sea Cables
+Kipling_219.txt : The Derelict
+Kipling_220.txt : The Destroyers
+Kipling_221.txt : The Disciple
+Kipling_222.txt : The Dove of Dacca
+Kipling_223.txt : The Dutch in the Medway
+Kipling_224.txt : The Egg-Shell
+Kipling_225.txt : The English Way
+Kipling_226.txt : The Expert
+Kipling_227.txt : The Explanation
+Kipling_228.txt : The Fabulists
+Kipling_229.txt : The Fairies' Siege
+Kipling_230.txt : The Fall of Jock Gillespie
+Kipling_231.txt : The Fires
+Kipling_232.txt : The First Chantey
+Kipling_233.txt : The Flight
+Kipling_234.txt : The Four Angels
+Kipling_235.txt : The French Wars
+Kipling_236.txt : The Gift Of The Sea
+Kipling_237.txt : The Gipsy Trail
+Kipling_238.txt : The Glory of the Garden
+Kipling_239.txt : The Greek National Anthem
+Kipling_240.txt : The Gypsy-Trail
+Kipling_241.txt : The Heritage
+Kipling_242.txt : The Holy War
+Kipling_243.txt : The Hour of the Angel
+Kipling_244.txt : The Houses
+Kipling_245.txt : The Hyaenas
+Kipling_246.txt : The Hymn to Physical Pain
+Kipling_247.txt : The Instructor
+Kipling_248.txt : The Inventor
+Kipling_249.txt : The Irish Guards
+Kipling_250.txt : The Jacket
+Kipling_251.txt : The Jester
+Kipling_252.txt : The Juggler's Song
+Kipling_253.txt : The Junk and the Dhow
+Kipling_254.txt : The Justice's Tale
+Kipling_255.txt : The King
+Kipling_256.txt : The King and the Sea
+Kipling_257.txt : The Kingdom
+Kipling_258.txt : The King's Job
+Kipling_259.txt : The King's Pilgrimage
+Kipling_260.txt : The Ladies
+Kipling_261.txt : The Lament of the Border Cattle Thief
+Kipling_262.txt : The Last Department
+Kipling_263.txt : The Last Lap
+Kipling_264.txt : The Last Ode
+Kipling_265.txt : The Last of the Light Brigade
+Kipling_266.txt : The Legend Of Evil
+Kipling_267.txt : The Legend of the Foreign Office
+Kipling_268.txt : The Legends Of Evil
+Kipling_269.txt : The Lesson
+Kipling_270.txt : The Liner She's A Lady
+Kipling_271.txt : The Lost Legion
+Kipling_272.txt : The Lovers' Litany
+Kipling_273.txt : The Lowestoft Boat
+Kipling_274.txt : The Man Who Could Write
+Kipling_275.txt : The Mare's Nest
+Kipling_276.txt : The Married Man
+Kipling_277.txt : The Master-Cook
+Kipling_278.txt : The Men That Fought At Minden
+Kipling_279.txt : The Mine-Sweepers
+Kipling_280.txt : The Miracles
+Kipling_281.txt : The Moral
+Kipling_282.txt : The Morning Song of the Jungle
+Kipling_283.txt : The Mother-Lodge
+Kipling_284.txt : The Mother's Son
+Kipling_285.txt : The Necessitarian
+Kipling_286.txt : The New Knighthood
+Kipling_287.txt : The North Sea Patrol
+Kipling_288.txt : The Nursing Sister
+Kipling_289.txt : The Oldest Song
+Kipling_290.txt : The Only Son
+Kipling_291.txt : The Outlaws
+Kipling_292.txt : The Overland Mail
+Kipling_293.txt : The Palace
+Kipling_294.txt : The Penalty
+Kipling_295.txt : The Pirates in England
+Kipling_296.txt : The Playmate
+Kipling_297.txt : The Plea of the Simla Dancers
+Kipling_298.txt : The Portent
+Kipling_299.txt : The Post That Fitted
+Kipling_300.txt : The Power of the Dog
+Kipling_301.txt : The Prairie
+Kipling_302.txt : The Prayer of Miriam Cohen
+Kipling_303.txt : The Press
+Kipling_304.txt : The Pro-Consuls
+Kipling_305.txt : The Prodigal Son
+Kipling_306.txt : The Puzzler
+Kipling_307.txt : The Queen of Fairy Land
+Kipling_308.txt : The Queen's Men
+Kipling_309.txt : The Question
+Kipling_310.txt : The Rabbi's Song
+Kipling_311.txt : The Recall
+Kipling_312.txt : The Reeds of Runnymede
+Kipling_313.txt : The Reformers
+Kipling_314.txt : The Return
+Kipling_315.txt : The Return of the Children
+Kipling_316.txt : The River's Tale
+Kipling_317.txt : The Roman Centurion's Song
+Kipling_318.txt : The Rowers
+Kipling_319.txt : The Run of the Downs
+Kipling_320.txt : The Rupaiyat of Omar Kal'vin
+Kipling_321.txt : The Sea and the Hills
+Kipling_322.txt : The Sea-Wife
+Kipling_323.txt : The Second Voyage
+Kipling_324.txt : The Secret of  the Machinery
+Kipling_325.txt : The Secret of the Machinery
+Kipling_326.txt : The Secret of the Machines
+Kipling_327.txt : The Sergeant's Weddin'
+Kipling_328.txt : The Servant When He Reigneth
+Kipling_329.txt : The Settler
+Kipling_330.txt : The Sing-Song of Old Man Kangaroo
+Kipling_331.txt : The Song at Cock-Crow
+Kipling_332.txt : The Song OF The Cities
+Kipling_333.txt : The Song of the English
+Kipling_334.txt : The Song of the Little Hunter
+Kipling_335.txt : The Song of the Old Guard
+Kipling_336.txt : The Song OF The Sons
+Kipling_337.txt : The Song of the Women
+Kipling_338.txt : The Songs of the Lathes
+Kipling_339.txt : The Sons of Martha
+Kipling_340.txt : The Spies' March
+Kipling_341.txt : The Storm Cone
+Kipling_342.txt : The Story of Uriah
+Kipling_343.txt : The Stranger
+Kipling_344.txt : The Survival
+Kipling_345.txt : The Thorkild's Song
+Kipling_346.txt : The Thousandth Man
+Kipling_347.txt : The Threshold
+Kipling_348.txt : The Totem
+Kipling_349.txt : The Two-Sided Man
+Kipling_350.txt : The Ubique
+Kipling_351.txt : The Undertaker's Horse..
+Kipling_352.txt : The Vampire
+Kipling_353.txt : The Verdicts
+Kipling_354.txt : The Verdicts [Jutland]
+Kipling_355.txt : The Vineyard
+Kipling_356.txt : The Virginity
+Kipling_357.txt : The Voortrekker
+Kipling_358.txt : The Wage-Slaves
+Kipling_359.txt : The Way Through the Woods
+Kipling_360.txt : The Wet Litany
+Kipling_361.txt : The White Man's Burden
+Kipling_362.txt : The White Seal
+Kipling_363.txt : The Widow At Windsor
+Kipling_364.txt : The Widower
+Kipling_365.txt : The Widow's Party
+Kipling_366.txt : The Winners
+Kipling_367.txt : The Wishing-Caps
+Kipling_368.txt : Things and the Man
+Kipling_369.txt : Thorkild’s Song
+Kipling_370.txt : Thrown Away
+Kipling_371.txt : To James Whitcomb Riley
+Kipling_372.txt : To The City Of Bombay
+Kipling_373.txt : To the Companions
+Kipling_374.txt : To the Unknown Goddess
+Kipling_375.txt : To Wolcott Balestier
+Kipling_376.txt : Tommy
+Kipling_377.txt : Troopin'
+Kipling_378.txt : Two Kopjes
+Kipling_379.txt : Two Months
+Kipling_380.txt : Ulster
+Kipling_381.txt : Untimely
+Kipling_382.txt : We and They
+Kipling_383.txt : What Happened
+Kipling_384.txt : What the People Said
+Kipling_385.txt : When Earth's Last Picture Is Painted
+Kipling_386.txt : White Horses
+Kipling_387.txt : Wilful Missing
+Kipling_388.txt : With Drake in the Tropics
+Kipling_389.txt : Zion
+Kipling_390.txt : "Birds Of Prey" March
+Kipling_391.txt : A Ballad Of Jakkko Hill
+Kipling_392.txt : A Ballade Of Burial
+Kipling_393.txt : Sestina of the Tramp-Royal
+Kipling_394.txt : Song of the Galley-Slaves
+Kipling_395.txt : "The Trade"
+Kipling_396.txt : Epitaphs of the War
+Kipling_397.txt : "For All We Have And Are"
+Kipling_398.txt : If—
+Kipling_399.txt : Chapter Headings
+Kipling_400.txt : Covenent
+Kipling_401.txt : Farewell and adieu...
+Kipling_402.txt : Follow Me 'ome
+Kipling_403.txt : For All We Have And Are
+Kipling_404.txt : Ford o' Kabul River
+Kipling_405.txt : Gentlmen-Rankers
+Kipling_406.txt : Harp Song of the Dane Women 
+Kipling_407.txt : Helen all Alone
+Kipling_408.txt : Hunting-Song of the Seeonee Pack
+Kipling_409.txt : In the Neolithic Age
+Kipling_410.txt : Mine Sweepers
+Kipling_411.txt : Morning Song in the Jungle
+Kipling_412.txt : My New-Cut Ashler
+Kipling_413.txt : Road-Song of the Bandar-Log
+Kipling_414.txt : Russia To The Pacifists
+Kipling_415.txt : Sestina Of The Tramp
+Kipling_416.txt : Shillin' a Day
+Kipling_417.txt : Song of the Wise Children
+Kipling_418.txt : South Africa
+Kipling_419.txt : Study of an Elevation, In Indian Ink
+Kipling_420.txt : The Conundrum of the Workshops
+Kipling_421.txt : The Day's Work
+Kipling_422.txt : The Floods
+Kipling_423.txt : The Gift of the Sea
+Kipling_424.txt : THE IRISH GUARDS
+Kipling_425.txt : The Legend of Evil
+Kipling_426.txt : The Liner She's a Lady
+Kipling_427.txt : The Men That Fought at Minden
+Kipling_428.txt : The Moon of Other Days
+Kipling_429.txt : The Quesion
+Kipling_430.txt : The Sea And the Hills
+Kipling_431.txt : The Song of Seven Cities
+Kipling_432.txt : The Song of the Cities
+Kipling_433.txt : The Song of the Sons
+Kipling_434.txt : The Trade
+Kipling_435.txt : The Undertaker's Horse
+Kipling_436.txt : The Widow at Windsor
+Kipling_437.txt : When the Great Ark
+Kipling_438.txt : A Ballad of Jakkko Hill
+Kipling_439.txt : A Boy Scouts'Patrol Song
+Kipling_440.txt : A Song at Cock-Crow
+Kipling_441.txt : A Song In Storm
+Kipling_442.txt : A Song of the White Men
+Kipling_443.txt : A Song of Travel
+Kipling_444.txt : A Tale of Two Cities
+Kipling_445.txt : A Three-Part Song
+Kipling_446.txt : A Tree Song
+Kipling_447.txt : A Truthful Song
+Kipling_448.txt : The Bees and the Flies
+Kipling_449.txt : "Birds of Prey" March
+Kipling_450.txt : A GENERAL SUMMARY
+Kipling_451.txt : A St. Helena Lullaby
+Kipling_452.txt : A Translation
+Kipling_453.txt : The Way Through the Woods.
+Kipling_454.txt : The Choice
+Kipling_455.txt : To The Companions
+Kipling_456.txt : L'Envoi to Life's Handicap
+Kipling_457.txt : The Cat That Walked by Himself
+Kipling_458.txt : Dane-geld
+Kipling_459.txt : Big Steamers
+Kipling_460.txt : Darzee's Chaunt
+Kipling_461.txt : En-dor
+Kipling_462.txt : Ulster 1912
+Kipling_463.txt : Gentleman-Rankers
+Kipling_464.txt : The Song Of The Cities
+Kipling_465.txt : A Song Of The English
+Kipling_466.txt : The Lament OF The Border Cattle Thief
+Kipling_467.txt : Birds of Prey March
+
+Whitman - 311 poems
+
+Whitman_001.txt : 1861
+Whitman_002.txt : A Boston Ballad, 1854
+Whitman_003.txt : A child said, What is the grass?
+Whitman_004.txt : A Hand-Mirror
+Whitman_005.txt : A March In The Ranks, Hard-prest
+Whitman_006.txt : A Paumanok Picture
+Whitman_007.txt : A Riddle Song
+Whitman_008.txt : A Sight In Camp
+Whitman_009.txt : A Song
+Whitman_010.txt : A Woman Waits For Me
+Whitman_011.txt : Aboard At A Ship's Helm
+Whitman_012.txt : Adieu To A Solider
+Whitman_013.txt : After The Sea-Ship
+Whitman_014.txt : Ah Poverties, Wincings Sulky Retreats
+Whitman_015.txt : All Is Truth
+Whitman_016.txt : Are You The New Person, Drawn Toward Me?
+Whitman_017.txt : As At Thy Portals Also Death
+Whitman_018.txt : As Consequent, Etc.
+Whitman_019.txt : As I lay With Head In Your Lap, Camerado
+Whitman_020.txt : As I Ponder'd In Silence
+Whitman_021.txt : As I Walk These Broad, Majestic Days
+Whitman_022.txt : As Toilsome I Wander'd
+Whitman_023.txt : As toilsome I wander'd Virginia's woods
+Whitman_024.txt : Ashes Of Soldiers
+Whitman_025.txt : assurances
+Whitman_026.txt : Beat! Beat! Drums!
+Whitman_027.txt : Behavior
+Whitman_028.txt : By Broad Potomac's Shore
+Whitman_029.txt : By The Bivouac's Fitful Flame
+Whitman_030.txt : Camps Of Green
+Whitman_031.txt : City Of Orgies
+Whitman_032.txt : City Of Ships
+Whitman_033.txt : Come Up From The Fields, Father
+Whitman_034.txt : Darest Thou Now, O Soul
+Whitman_035.txt : Dirge For Two Veterans
+Whitman_036.txt : Eidólons
+Whitman_037.txt : Ethiopia Saluting The Colors
+Whitman_038.txt : Europe, The 72d And 73d Years Of These States
+Whitman_039.txt : Excelsior
+Whitman_040.txt : Facing West From California's Shores
+Whitman_041.txt : France, The 18th Year Of These States
+Whitman_042.txt : From Far Dakota's Canons
+Whitman_043.txt : From Paumanok Starting
+Whitman_044.txt : God
+Whitman_045.txt : Hours Continuing Long
+Whitman_046.txt : How Solemn As One By One
+Whitman_047.txt : I Hear America Singing
+Whitman_048.txt : I Saw In Louisiana A Live Oak Growing
+Whitman_049.txt : I Sit And Look Out
+Whitman_050.txt : I Was Looking A Long While
+Whitman_051.txt : In Cabin'd Ships At Sea
+Whitman_052.txt : In Midnight Sleep
+Whitman_053.txt : In Paths Untrodden
+Whitman_054.txt : Inscription
+Whitman_055.txt : Italian Music In Dakota
+Whitman_056.txt : Kosmos
+Whitman_057.txt : Laws For Creations
+Whitman_058.txt : Long I Thought That Knowledge
+Whitman_059.txt : Mannahatta
+Whitman_060.txt : Me Imperturbe
+Whitman_061.txt : Mediums
+Whitman_062.txt : Miracles
+Whitman_063.txt : Myself And Mine
+Whitman_064.txt : Native Moments
+Whitman_065.txt : Night On The Prairies
+Whitman_066.txt : Not Heat Flames Up And Consumes
+Whitman_067.txt : Not Heaving From My Ribb'd Breast Only
+Whitman_068.txt : O Captain! My Captain!
+Whitman_069.txt : O Me! O Life!
+Whitman_070.txt : O Star Of France
+Whitman_071.txt : O Sun Of Real Peace
+Whitman_072.txt : Of Him I Love Day And Night
+Whitman_073.txt : Of The Terrible Doubt Of Apperarances
+Whitman_074.txt : Old Ireland
+Whitman_075.txt : On Journeys Through The States
+Whitman_076.txt : On Old Man's Thought Of School
+Whitman_077.txt : On The Beach At Night
+Whitman_078.txt : On The Beach At Night, Alone
+Whitman_079.txt : One Hour To Madness And Joy
+Whitman_080.txt : One Song, America, Before I Go
+Whitman_081.txt : Or From That Sea Of Time
+Whitman_082.txt : Out From Behind His Mask
+Whitman_083.txt : Out of the Rolling Ocean, The Crowd
+Whitman_084.txt : Over The Carnage
+Whitman_085.txt : Patroling Barnegat
+Whitman_086.txt : Pensive On Her Dead Gazing, I Heard The Mother Of All
+Whitman_087.txt : Poem Of Remembrance For A Girl Or A Boy
+Whitman_088.txt : Poets to Come
+Whitman_089.txt : Recorders Ages Hence
+Whitman_090.txt : Roots And Leaves Themselves Alone
+Whitman_091.txt : Says
+Whitman_092.txt : Shut Not Your Doors, &c.
+Whitman_093.txt : So Far And So Far, And On Toward The End
+Whitman_094.txt : Song For All Seas, All Ships
+Whitman_095.txt : Song of Myself, I, II, VI & LII
+Whitman_096.txt : Song of Myself, X
+Whitman_097.txt : Song of Myself, XI
+Whitman_098.txt : Song Of The Universal
+Whitman_099.txt : Souvenirs Of Democracy
+Whitman_100.txt : Spain 1873-'74
+Whitman_101.txt : Sparkles From The Wheel
+Whitman_102.txt : Spirit Whose Work Is Done
+Whitman_103.txt : States!
+Whitman_104.txt : Tears
+Whitman_105.txt : That Music Always Round Me
+Whitman_106.txt : The Artilleryman's Vision
+Whitman_107.txt : The Base Of All Metaphysics
+Whitman_108.txt : The City Dead-House
+Whitman_109.txt : The Indications
+Whitman_110.txt : The Ox tamer
+Whitman_111.txt : The World Below The Brine
+Whitman_112.txt : These, I, Singing In Spring
+Whitman_113.txt : Think Of The Soul
+Whitman_114.txt : Thou Orb Aloft Full-Dazzling
+Whitman_115.txt : Thoughts
+Whitman_116.txt : To A Certain Civilian
+Whitman_117.txt : To A Common Prostitute
+Whitman_118.txt : To A Foil'd European Revolutionaire
+Whitman_119.txt : To A Locomotive In Winter
+Whitman_120.txt : To A Pupil
+Whitman_121.txt : To A Stranger
+Whitman_122.txt : To Him That Was Crucified
+Whitman_123.txt : To One Shortly To Die
+Whitman_124.txt : To Oratists
+Whitman_125.txt : To The Leaven'd Soil They Trod
+Whitman_126.txt : To The Man-of-War-Bird
+Whitman_127.txt : To Thee, Old Cause!
+Whitman_128.txt : Turn, O Libertad
+Whitman_129.txt : Unfolded Out Of The Folds
+Whitman_130.txt : Unnamed Lands
+Whitman_131.txt : Vigil Strange I Kept on the Field one Night
+Whitman_132.txt : Virgil Strange I Kept On The Field
+Whitman_133.txt : Virginia--The West
+Whitman_134.txt : Voices
+Whitman_135.txt : Wandering At Morn
+Whitman_136.txt : Warble Of Lilac-Time
+Whitman_137.txt : We Two-How Long We Were Fool'd
+Whitman_138.txt : Weave In, Weave In, My Hardy Life
+Whitman_139.txt : What Best I See In Thee
+Whitman_140.txt : What Think You I Take My Pen In Hand?
+Whitman_141.txt : When I Heard At The Close Of The Day
+Whitman_142.txt : Who Is Now Reading This?
+Whitman_143.txt : Who Learns My Lesson Complete?
+Whitman_144.txt : Whoever You Are, Holding Me Now In Hand
+Whitman_145.txt : With Antecedents
+Whitman_146.txt : Year Of Meteors, 1859 '60
+Whitman_147.txt : Years Of The Modern
+Whitman_148.txt : Yet, Yet, Ye Downcast Hours
+Whitman_149.txt : A Passage to India
+Whitman_150.txt : from The Sleepers
+Whitman_151.txt : Song of Myself
+Whitman_152.txt : Time to Come
+Whitman_153.txt : To the States,
+Whitman_154.txt : When I Heard at the Close of the Day
+Whitman_155.txt : Whoever You Are Holding Me Now in Hand
+Whitman_156.txt : The World Below the Brine
+Whitman_157.txt : Come Up from the Fields Father
+Whitman_158.txt : For You O Democracy
+Whitman_159.txt : I Saw in Louisiana A Live-Oak Growing
+Whitman_160.txt : "Are you the new person drawn toward me?"
+Whitman_161.txt : A March in the Ranks Hard-Prest, and the Road Unknown
+Whitman_162.txt : On the Beach at Night
+Whitman_163.txt : On the Beach at Night Alone
+Whitman_164.txt : Out of the Cradle Endlessly Rocking
+Whitman_165.txt : Artilleryman’s Vision, The.
+Whitman_166.txt : As At Thy Portals Also Death.
+Whitman_167.txt : As I lay with Head in your Lap, Camerado.
+Whitman_168.txt : As I Ponder’d in Silence.
+Whitman_169.txt : As I Walk These Broad, Majestic Days.
+Whitman_170.txt : As Toilsome I Wander’d.
+Whitman_171.txt : Ashes of Soldiers.
+Whitman_172.txt : Assurances.
+Whitman_173.txt : Base of all Metaphysics, The.
+Whitman_174.txt : Behavior.
+Whitman_175.txt : By Broad Potomac’s Shore.
+Whitman_176.txt : By the Bivouac’s Fitful Flame.
+Whitman_177.txt : Camps of Green.
+Whitman_178.txt : City Dead-House, The.
+Whitman_179.txt : City of Orgies.
+Whitman_180.txt : City of Ships.
+Whitman_181.txt : Come up from the Fields, Father.
+Whitman_182.txt : Darest Thou Now, O Soul.
+Whitman_183.txt : Despairing Cries.
+Whitman_184.txt : Dirge for Two Veterans.
+Whitman_185.txt : Eidólons.
+Whitman_186.txt : Ethiopia Saluting the Colors.
+Whitman_187.txt : Europe, the 72d and 73d years of These States.
+Whitman_188.txt : Excelsior.
+Whitman_189.txt : Facing West from Californiaâ€™s Shores.
+Whitman_190.txt : France, the 18th year of These States.
+Whitman_191.txt : From Far Dakota’s Cañons.
+Whitman_192.txt : From Paumanok Starting.
+Whitman_193.txt : Give me the Splendid, Silent Sun.
+Whitman_194.txt : Gods.
+Whitman_195.txt : Hours Continuing Long.
+Whitman_196.txt : How Solemn as One by One.
+Whitman_197.txt : I Hear America Singing.
+Whitman_198.txt : I Sit and Look Out.
+Whitman_199.txt : I was Looking a Long While.
+Whitman_200.txt : In Cabin’d Ships at Sea.
+Whitman_201.txt : In Midnight Sleep.
+Whitman_202.txt : In Paths Untrodden.
+Whitman_203.txt : Inscription.
+Whitman_204.txt : Italian Music in Dakota.
+Whitman_205.txt : Kosmos.
+Whitman_206.txt : Laws for Creations.
+Whitman_207.txt : Long I Thought that Knowledge.
+Whitman_208.txt : Longings for Home.
+Whitman_209.txt : Mannahatta.
+Whitman_210.txt : Me Imperturbe.
+Whitman_211.txt : Mediums.
+Whitman_212.txt : Miracles.
+Whitman_213.txt : Myself and Mine.
+Whitman_214.txt : Native Moments.
+Whitman_215.txt : Night on The Prairies.
+Whitman_216.txt : Not Heat Flames up and Consumes.
+Whitman_217.txt : Not Heaving from My Ribbâ€™d Breast Only.
+Whitman_218.txt : O Captain! My Captain!
+Whitman_219.txt : O Star of France.
+Whitman_220.txt : O Sun of Real Peace.
+Whitman_221.txt : Of Him I Love Day and Night.
+Whitman_222.txt : Of the Terrible Doubt of Appearances.
+Whitman_223.txt : Old Ireland.
+Whitman_224.txt : On Journeys Through The States.
+Whitman_225.txt : On the Beach at Night, Alone.
+Whitman_226.txt : One Hour to Madness and Joy.
+Whitman_227.txt : Or from that Sea of Time.
+Whitman_228.txt : Out from Behind this Mask.
+Whitman_229.txt : Out of the Rolling Ocean, the Crowd.
+Whitman_230.txt : Over the Carnage.
+Whitman_231.txt : Ox Tamer, The.
+Whitman_232.txt : Patroling Barnegat.
+Whitman_233.txt : Pensive on Her Dead Gazing, I Heard the Mother of All.
+Whitman_234.txt : Poem of Remembrance for a Girl or a Boy.
+Whitman_235.txt : Poets to Come.
+Whitman_236.txt : Recorders Ages Hence.
+Whitman_237.txt : Roots and Leaves Themselves Alone.
+Whitman_238.txt : Says.
+Whitman_239.txt : So Far and So Far, and on Toward the End.
+Whitman_240.txt : Song for All Seas, All Ships.
+Whitman_241.txt : Song of the Universal.
+Whitman_242.txt : Souvenirs of Democracy.
+Whitman_243.txt : Spain 1873–’74.
+Whitman_244.txt : Sparkles from The Wheel.
+Whitman_245.txt : Spirit That Form’d This Scene.
+Whitman_246.txt : Spirit whose Work is Done.
+Whitman_247.txt : Tears.
+Whitman_248.txt : That Music Always Round Me.
+Whitman_249.txt : These, I, Singing in Spring.
+Whitman_250.txt : Think of the Soul.
+Whitman_251.txt : Thou Orb Aloft Full-Dazzling.
+Whitman_252.txt : Thought.
+Whitman_253.txt : Thoughts.
+Whitman_254.txt : To a Certain Civilian.
+Whitman_255.txt : To a foil’d European Revolutionaire.
+Whitman_256.txt : To a Locomotive in Winter.
+Whitman_257.txt : To a Pupil.
+Whitman_258.txt : To a Stranger
+Whitman_259.txt : To Him that was Crucified.
+Whitman_260.txt : To One Shortly to Die.
+Whitman_261.txt : To Oratists.
+Whitman_262.txt : To the Leaven’d Soil They Trod.
+Whitman_263.txt : To the Man-of-War-Bird.
+Whitman_264.txt : Turn, O Libertad.
+Whitman_265.txt : Unfolded Out of the Folds.
+Whitman_266.txt : Unnamed Lands.
+Whitman_267.txt : Vigil Strange I Kept on the Field.
+Whitman_268.txt : Voices.
+Whitman_269.txt : Wandering at Morn.
+Whitman_270.txt : Warble for Lilac-Time.
+Whitman_271.txt : We Two—How Long We were Fool’d.
+Whitman_272.txt : Weave in, Weave in, My Hardy Life
+Whitman_273.txt : What Best I See In Thee.
+Whitman_274.txt : What think You I take my Pen in Hand?
+Whitman_275.txt : When I heard at the Close of the Day.
+Whitman_276.txt : Who is now Reading This?
+Whitman_277.txt : Whoever You are, Holding Me now in Hand.
+Whitman_278.txt : With Antecedents.
+Whitman_279.txt : World Below the Brine, The.
+Whitman_280.txt : Year of Meteors, 1859 ’60.
+Whitman_281.txt : Years of the Modern.
+Whitman_282.txt : Yet, Yet, Ye Downcast Hours.
+Whitman_283.txt : You Felons on Trial in Courts.
+Whitman_284.txt : 1861.
+Whitman_285.txt : A Boston Ballad, 1854.
+Whitman_286.txt : A child said, What is the grass
+Whitman_287.txt : A Hand-Mirror.
+Whitman_288.txt : A March in the Ranks, Hard-prest.
+Whitman_289.txt : A Paumanok Picture.
+Whitman_290.txt : A Riddle Song.
+Whitman_291.txt : A Sight in Camp.
+Whitman_292.txt : A Song.
+Whitman_293.txt : A Woman Waits for Me.
+Whitman_294.txt : Aboard at a Ship’s Helm.
+Whitman_295.txt : Adieu to a Soldier
+Whitman_296.txt : After the Sea-Ship.
+Whitman_297.txt : Ah Poverties, Wincings and Sulky Retreats.
+Whitman_298.txt : All is Truth.
+Whitman_299.txt : An Old Man’s Thought of School.
+Whitman_300.txt : Are You the New person, drawn toward Me?
+Whitman_301.txt : Adieu to a Soldier.
+Whitman_302.txt : To a Stranger.
+Whitman_303.txt : Weave in, Weave in, My Hardy Life.
+Whitman_304.txt : For You, O Democracy
+Whitman_305.txt : A Sight In Camp In The Daybreak
+Whitman_306.txt : Good-Bye My Fancy!
+Whitman_307.txt : As I Lay With My Head in Your Lap, Camerado
+Whitman_308.txt : Darest Thou Now O Soul
+Whitman_309.txt : Mannahattan
+Whitman_310.txt : Pensive On Her Dead Gazing...
+Whitman_311.txt : Give Me The Splendid, Silent Sun
+
+Wilcox  - 599 poems
+
+Wilcox_001.txt : I, Too
+Wilcox_002.txt : If--
+Wilcox_003.txt : Settle The Question Right
+Wilcox_004.txt : Is It Well?
+Wilcox_005.txt : Shovel And Tongs
+Wilcox_006.txt : Show me the Way
+Wilcox_007.txt : Sign-Board
+Wilcox_008.txt : Sing To Me
+Wilcox_009.txt : Slain
+Wilcox_010.txt : Smiles.
+Wilcox_011.txt : Smoke
+Wilcox_012.txt : So Long In Coming
+Wilcox_013.txt : Solitude
+Wilcox_014.txt : Song Of The Aviator
+Wilcox_015.txt : Isaura
+Wilcox_016.txt : Song Of The Rail
+Wilcox_017.txt : Song Of The Spirit
+Wilcox_018.txt : Impatience
+Wilcox_019.txt : Song Of The Wheelman
+Wilcox_020.txt : Songs Of A Country Home
+Wilcox_021.txt : Sonnet
+Wilcox_022.txt : Sorrow's Uses
+Wilcox_023.txt : Sorry
+Wilcox_024.txt : Sounds From The Baseball Field
+Wilcox_025.txt : Speak
+Wilcox_026.txt : Spectres
+Wilcox_027.txt : Sweet Danger
+Wilcox_028.txt : Ten Thousand Men A Day
+Wilcox_029.txt : Thanksgiving
+Wilcox_030.txt : The Ah Goo Tongue
+Wilcox_031.txt : The Barbarous Chief
+Wilcox_032.txt : The Beautiful Blue Danube
+Wilcox_033.txt : The Black Charger
+Wilcox_034.txt : It All Will Come Out Right
+Wilcox_035.txt : The Black Sheep
+Wilcox_036.txt : The Boys' And Girls' Thanksgiving
+Wilcox_037.txt : The Brewer's Dog
+Wilcox_038.txt : The Camp Fire
+Wilcox_039.txt : The Coming Man
+Wilcox_040.txt : The Common Lot
+Wilcox_041.txt : The Coquette
+Wilcox_042.txt : The Creed
+Wilcox_043.txt : The Creed To Be.
+Wilcox_044.txt : The Deadliest Sin
+Wilcox_045.txt : The Discontented
+Wilcox_046.txt : The Duel
+Wilcox_047.txt : It Might Have Been
+Wilcox_048.txt : The Duet
+Wilcox_049.txt : The Empty Bowl
+Wilcox_050.txt : The Engine
+Wilcox_051.txt : The Englishman
+Wilcox_052.txt : The Falling Of Thrones
+Wilcox_053.txt : The Farewell to Clarimonde
+Wilcox_054.txt : The Foolish Elm
+Wilcox_055.txt : In England
+Wilcox_056.txt : Joy
+Wilcox_057.txt : The Giddy Girl
+Wilcox_058.txt : The Girl Of The U.S.A.
+Wilcox_059.txt : The Glory That Slumbered In The Granite Rock
+Wilcox_060.txt : The Hammock's Complaint
+Wilcox_061.txt : The Hen's Complaint
+Wilcox_062.txt : The Hour
+Wilcox_063.txt : The Island Of Endless Play
+Wilcox_064.txt : Karma
+Wilcox_065.txt : The Jealous Gods
+Wilcox_066.txt : The Kettle
+Wilcox_067.txt : The Khaki Boys Who Were Not At The Front
+Wilcox_068.txt : In Faith
+Wilcox_069.txt : The King and the Siren
+Wilcox_070.txt : The King Of Candyland
+Wilcox_071.txt : The Lady And The Dame
+Wilcox_072.txt : The Land Of Nowhere
+Wilcox_073.txt : The Land Of The Gone-Away Souls
+Wilcox_074.txt : Kingdom of Love
+Wilcox_075.txt : The Little Lady Of The Bullock Cart
+Wilcox_076.txt : The Lodge-Room
+Wilcox_077.txt : Tiller and hoe
+Wilcox_078.txt : The Lost Garden
+Wilcox_079.txt : The Maniac
+Wilcox_080.txt : The Messenger
+Wilcox_081.txt : In France I Saw A Hill
+Wilcox_082.txt : The Mother's Prayer
+Wilcox_083.txt : Last Love
+Wilcox_084.txt : The Muse And The Poet
+Wilcox_085.txt : A Bachelor To A Married Flirt
+Wilcox_086.txt : A Ballade Of The Unborn Dead
+Wilcox_087.txt : A Burial
+Wilcox_088.txt : A Crushed Leaf
+Wilcox_089.txt : A Curious Story
+Wilcox_090.txt : A Dialogue
+Wilcox_091.txt : A Dirge
+Wilcox_092.txt : The Needle and Thread
+Wilcox_093.txt : The Ogre Slam-The-Doo
+Wilcox_094.txt : The Old Wooden Cradle
+Wilcox_095.txt : The Optimist.
+Wilcox_096.txt : The Past
+Wilcox_097.txt : The Phantom Ball
+Wilcox_098.txt : The Poor Little Toe
+Wilcox_099.txt : The Princess's Finger-Nail:
+Wilcox_100.txt : The Question.
+Wilcox_101.txt : The Rainbow Of Promise
+Wilcox_102.txt : The Rape Of The Mist
+Wilcox_103.txt : The River Of Sleep
+Wilcox_104.txt : The River.
+Wilcox_105.txt : Lay It Away
+Wilcox_106.txt : The Room Beneath the Rafters
+Wilcox_107.txt : The Saddest Hour
+Wilcox_108.txt : The Same Old Strain
+Wilcox_109.txt : The Song Of The Allies
+Wilcox_110.txt : The Song Of The Sandwich
+Wilcox_111.txt : The speech of silence
+Wilcox_112.txt : The Spirit Of Great Joan
+Wilcox_113.txt : The Squanderer
+Wilcox_114.txt : The Stevedores
+Wilcox_115.txt : The Story Of Grumble Tone
+Wilcox_116.txt : In Grandmamma's
+Wilcox_117.txt : The Summer Girl
+Wilcox_118.txt : The Swan Of Dijon
+Wilcox_119.txt : The Tavern Of Last Times
+Wilcox_120.txt : The Temperance Army
+Wilcox_121.txt : The Tendril's Faith
+Wilcox_122.txt : The Things That Count
+Wilcox_123.txt : The Tiger
+Wilcox_124.txt : The Times
+Wilcox_125.txt : The Traveled Man
+Wilcox_126.txt : The Trio
+Wilcox_127.txt : The Truth Teller
+Wilcox_128.txt : The Tryst
+Wilcox_129.txt : The Tulip Bed At Greeley Square
+Wilcox_130.txt : Let Me Lean Hard
+Wilcox_131.txt : The Two Glasses
+Wilcox_132.txt : The Unattained
+Wilcox_133.txt : The Undiscovered
+Wilcox_134.txt : The Universal Route.
+Wilcox_135.txt : The Valley Of Fear
+Wilcox_136.txt : The Watcher
+Wilcox_137.txt : The Way To Wonderland
+Wilcox_138.txt : The Wheel of the Breast
+Wilcox_139.txt : The Year Outgrows the Spring
+Wilcox_140.txt : Then And Now
+Wilcox_141.txt : Theory And Practice
+Wilcox_142.txt : There's Work To Be Done
+Wilcox_143.txt : They Shall Not Win
+Wilcox_144.txt : Thou Dost Not Know
+Wilcox_145.txt : Three Friends
+Wilcox_146.txt : Three Souls
+Wilcox_147.txt : Through The Valley
+Wilcox_148.txt : Thy Ship
+Wilcox_149.txt : Time And Love
+Wilcox_150.txt : Time's Defeat
+Wilcox_151.txt : Time's Hymn Of Hate
+Wilcox_152.txt : Tired
+Wilcox_153.txt : To An Astrologer
+Wilcox_154.txt : To Marry Or Not To Marry?
+Wilcox_155.txt : Transformati
+Wilcox_156.txt : Twin-Born
+Wilcox_157.txt : Two Boys And A Cigarette
+Wilcox_158.txt : Two Nights
+Wilcox_159.txt : Two Sunsets
+Wilcox_160.txt : Unanswered Prayers
+Wilcox_161.txt : Unconquered
+Wilcox_162.txt : Uncontrolled
+Wilcox_163.txt : Under The Sheet
+Wilcox_164.txt : Upon The Sand
+Wilcox_165.txt : Vanity Fair
+Wilcox_166.txt : Veils
+Wilcox_167.txt : Voice Of The Voiceless
+Wilcox_168.txt : Wanted--A Little Girl
+Wilcox_169.txt : War
+Wilcox_170.txt : Warned
+Wilcox_171.txt : Were I Man Grown
+Wilcox_172.txt : What Had He Done?
+Wilcox_173.txt : What I Have Seen #1
+Wilcox_174.txt : What I Have Seen #2
+Wilcox_175.txt : What I Have Seen #3
+Wilcox_176.txt : What I Have Seen #4
+Wilcox_177.txt : What I Have Seen #5
+Wilcox_178.txt : What Is Flirtation?
+Wilcox_179.txt : What shall we do?
+Wilcox_180.txt : What Uncle Rob Says
+Wilcox_181.txt : What We Want
+Wilcox_182.txt : What Would It Be?
+Wilcox_183.txt : Whatever Is--Is Best
+Wilcox_184.txt : When you go Away
+Wilcox_185.txt : My Grave
+Wilcox_186.txt : Where Are The Temperance People? In Reply To A Query
+Wilcox_187.txt : No Classes!
+Wilcox_188.txt : Nothing New
+Wilcox_189.txt : Where Is Thy Brother?
+Wilcox_190.txt : Wherefore?
+Wilcox_191.txt : Which are You?
+Wilcox_192.txt : Who Is A Christian?
+Wilcox_193.txt : Why The Spring Is Late
+Wilcox_194.txt : Wild Oats
+Wilcox_195.txt : Will
+Wilcox_196.txt : Winter Rain
+Wilcox_197.txt : Wishing
+Wilcox_198.txt : Wishing -- Or Fate And I
+Wilcox_199.txt : Woman To Man
+Wilcox_200.txt : Words From The Wind
+Wilcox_201.txt : Work For Woman
+Wilcox_202.txt : Worth While
+Wilcox_203.txt : Worthy The Name of Sir Knight
+Wilcox_204.txt : Ye Agents
+Wilcox_205.txt : You Never Can Tell
+Wilcox_206.txt : You Will Forget Me
+Wilcox_207.txt : Let Them Go
+Wilcox_208.txt : Let Us Give Thanks
+Wilcox_209.txt : Leudeman's-o
+Wilcox_210.txt : 'Tis The Set Of The Sail -- Or -- One Ship Sails East
+Wilcox_211.txt : A Lover's Quarrel
+Wilcox_212.txt : A Song Of Home
+Wilcox_213.txt : A trusting little leaf of green,
+Wilcox_214.txt : Leudeman's-on-the-River
+Wilcox_215.txt : Life
+Wilcox_216.txt : "It Might Have Been"
+Wilcox_217.txt : Life Is A Privilege
+Wilcox_218.txt : Life is too short
+Wilcox_219.txt : Recrimination
+Wilcox_220.txt : Love
+Wilcox_221.txt : Reply To Rudyard Kipling's Poem...
+Wilcox_222.txt : "Let Us Give Thanks"
+Wilcox_223.txt : "America Will Not Turn Back" --Woodrow Wilson
+Wilcox_224.txt : "Give Us A Call!"
+Wilcox_225.txt : "One Was Taken, And One Was Left"
+Wilcox_226.txt : Out Of The Depths: Written After The Reformation
+Wilcox_227.txt : "PH. Best & Co.'s Lager-Beer"
+Wilcox_228.txt : Alcohol's Requiem Upon Prof. P. F. K.
+Wilcox_229.txt : "Where Is Thy Brother?"
+Wilcox_230.txt : I Told You So
+Wilcox_231.txt : Dorothy D
+Wilcox_232.txt : Ad Finem
+Wilcox_233.txt : All That Love Asks.
+Wilcox_234.txt : Ambition's Trail.
+Wilcox_235.txt : America Will Not Turn Back --Woodrow Wilson
+Wilcox_236.txt : Christmas Fancies.
+Wilcox_237.txt : Compensation
+Wilcox_238.txt : Give Us A Call!
+Wilcox_239.txt : Here And Now.
+Wilcox_240.txt : High Noon.
+Wilcox_241.txt : A Baby In The House
+Wilcox_242.txt : A Fable
+Wilcox_243.txt : A Fatal Impress
+Wilcox_244.txt : A Fisherman's Baby
+Wilcox_245.txt : A Girl's Autumn Reverie
+Wilcox_246.txt : A Glass Of Wine
+Wilcox_247.txt : A Golden Day
+Wilcox_248.txt : A Grey Mood
+Wilcox_249.txt : A Holiday
+Wilcox_250.txt : A Leaf
+Wilcox_251.txt : A Lovers' Quarrel
+Wilcox_252.txt : A Maiden To Her Mirror
+Wilcox_253.txt : A Maiden's Secret
+Wilcox_254.txt : A Man's Repentance
+Wilcox_255.txt : A March Snow
+Wilcox_256.txt : A Meeting
+Wilcox_257.txt : A Mother's Wail
+Wilcox_258.txt : A Naughty Little Comet
+Wilcox_259.txt : A Pin
+Wilcox_260.txt : A Sculptor
+Wilcox_261.txt : A Song Of Life
+Wilcox_262.txt : A Suggestion
+Wilcox_263.txt : A Tumbler Of Claret
+Wilcox_264.txt : A Waif
+Wilcox_265.txt : A Waltz-Quadrille
+Wilcox_266.txt : A Woman's Love
+Wilcox_267.txt : A World Worth Living In
+Wilcox_268.txt : About May
+Wilcox_269.txt : Acquaintance
+Wilcox_270.txt : Ad Finum
+Wilcox_271.txt : Advice
+Wilcox_272.txt : After the Engagement
+Wilcox_273.txt : Alcohol's Requiem Upon Prof. P. F. K., A Gifted Man, Who Died A Victim Of Strong Drink
+Wilcox_274.txt : All Roads That Lead To God Are Good
+Wilcox_275.txt : All That Love Asks
+Wilcox_276.txt : Always At Sea
+Wilcox_277.txt : Ambition's Trail
+Wilcox_278.txt : American Boys, Hello!
+Wilcox_279.txt : An Answer
+Wilcox_280.txt : An Empty Crib
+Wilcox_281.txt : An Episode
+Wilcox_282.txt : An Inspiration
+Wilcox_283.txt : An Old Man To His Sleeping Young Bride
+Wilcox_284.txt : Angel Or Demon
+Wilcox_285.txt : Answered
+Wilcox_286.txt : Answered Prayers
+Wilcox_287.txt : Answers
+Wilcox_288.txt : Are you Loving Enough?
+Wilcox_289.txt : Arise
+Wilcox_290.txt : Art and Heart
+Wilcox_291.txt : Life's Lesson Book
+Wilcox_292.txt : Art And Love
+Wilcox_293.txt : Artist's Life
+Wilcox_294.txt : As By Fire
+Wilcox_295.txt : As You Go Through Life
+Wilcox_296.txt : Ascension
+Wilcox_297.txt : At an Old Drawer
+Wilcox_298.txt : At Bay
+Wilcox_299.txt : At Eleusis
+Wilcox_300.txt : At Set of Sun
+Wilcox_301.txt : At The Hop
+Wilcox_302.txt : Attainment
+Wilcox_303.txt : Baby's First Journey
+Wilcox_304.txt : Be Not Dismayed
+Wilcox_305.txt : Be Not Weary
+Wilcox_306.txt : Bedlam Town
+Wilcox_307.txt : Begin The Day
+Wilcox_308.txt : Beppo
+Wilcox_309.txt : Beyond
+Wilcox_310.txt : Bird Of Hope
+Wilcox_311.txt : Bleak Weather
+Wilcox_312.txt : Blind Sorrow
+Wilcox_313.txt : Bohemia
+Wilcox_314.txt : Breakers
+Wilcox_315.txt : Breaking The Day In Two
+Wilcox_316.txt : By-And-Bye
+Wilcox_317.txt : Camp Followers
+Wilcox_318.txt : Canada
+Wilcox_319.txt : Carlos
+Wilcox_320.txt : Certitude
+Wilcox_321.txt : Change
+Wilcox_322.txt : Christ Crucified
+Wilcox_323.txt : Christmas Fancies
+Wilcox_324.txt : Clara Morris (Written for a Benefit Given Mrs. Morris)
+Wilcox_325.txt : Coleur de Rose
+Wilcox_326.txt : Come Back Clean
+Wilcox_327.txt : Communism
+Wilcox_328.txt : Compensations
+Wilcox_329.txt : Completion
+Wilcox_330.txt : Contentment
+Wilcox_331.txt : Courage
+Wilcox_332.txt : Creation
+Wilcox_333.txt : Curious Story
+Wilcox_334.txt : Daft
+Wilcox_335.txt : Dear Motherland Of France
+Wilcox_336.txt : Delilah
+Wilcox_337.txt : Dell And I
+Wilcox_338.txt : Denied
+Wilcox_339.txt : Desolation
+Wilcox_340.txt : Discredited
+Wilcox_341.txt : Don't Drink
+Wilcox_342.txt : Don't Tease The Lion
+Wilcox_343.txt : Dorothy D.
+Wilcox_344.txt : Dream Town
+Wilcox_345.txt : Drouth
+Wilcox_346.txt : East And West
+Wilcox_347.txt : Ernestness
+Wilcox_348.txt : Fading
+Wilcox_349.txt : Fading*
+Wilcox_350.txt : False
+Wilcox_351.txt : Fame
+Wilcox_352.txt : Father
+Wilcox_353.txt : Finis
+Wilcox_354.txt : Fleeing Away
+Wilcox_355.txt : Floods
+Wilcox_356.txt : Foes
+Wilcox_357.txt : Forbidden Speech
+Wilcox_358.txt : Forward
+Wilcox_359.txt : Friendship
+Wilcox_360.txt : Friendship After Love
+Wilcox_361.txt : From the Grave
+Wilcox_362.txt : Ghosts
+Wilcox_363.txt : Go Plant a Tree
+Wilcox_364.txt : God Rules Alway
+Wilcox_365.txt : God's Work
+Wilcox_366.txt : Going Away
+Wilcox_367.txt : Good Templars' Song
+Wilcox_368.txt : Good-By To The Cradle
+Wilcox_369.txt : Gracia
+Wilcox_370.txt : Growing Old
+Wilcox_371.txt : Guilo
+Wilcox_372.txt : Life's Scars
+Wilcox_373.txt : Haunted
+Wilcox_374.txt : He That Hath Ears
+Wilcox_375.txt : Here And Now
+Wilcox_376.txt : High Noon
+Wilcox_377.txt : His Youth
+Wilcox_378.txt : How does Love speak?
+Wilcox_379.txt : How Is It?
+Wilcox_380.txt : I Am
+Wilcox_381.txt : I Love You
+Wilcox_382.txt : I Shall Not Forget
+Wilcox_383.txt : I Step Across The Mystic Border-Land
+Wilcox_384.txt : I Told You
+Wilcox_385.txt : I Will Be Worthy Of It
+Wilcox_386.txt : If
+Wilcox_387.txt : In Grandmamma's Kitchen
+Wilcox_388.txt : Inspiration
+Wilcox_389.txt : Midsummer
+Wilcox_390.txt : On Seeing The Diabutsu--At Kamakura, Japan
+Wilcox_391.txt : Preaching Vs Practice
+Wilcox_392.txt : Smiles
+Wilcox_393.txt : Speech
+Wilcox_394.txt : Summer Song
+Wilcox_395.txt : Sunshine And Shadow
+Wilcox_396.txt : The Actor
+Wilcox_397.txt : The Beautiful Land Of Nod
+Wilcox_398.txt : The Belle's Soliloquy
+Wilcox_399.txt : The Birth Of The Opal
+Wilcox_400.txt : The Boys' And Girls' Thanksgiving of 1892
+Wilcox_401.txt : The Change
+Wilcox_402.txt : The Christian’s New Year Prayer
+Wilcox_403.txt : The Creed To Be
+Wilcox_404.txt : The Discontented Manicure Scissors
+Wilcox_405.txt : The Kingdom of Love
+Wilcox_406.txt : The Law
+Wilcox_407.txt : The Little Bird
+Wilcox_408.txt : The Little White Hearse
+Wilcox_409.txt : The London 'Bobby'
+Wilcox_410.txt : The Message
+Wilcox_411.txt : The Musicians
+Wilcox_412.txt : The Ogre Slam-The-Door
+Wilcox_413.txt : The Old Moon In The New Moon's Arms
+Wilcox_414.txt : The Optimist
+Wilcox_415.txt : The Princess's Finger-Nail: A Tale Of Nonsense Land
+Wilcox_416.txt : The Question
+Wilcox_417.txt : The River
+Wilcox_418.txt : The Signboard
+Wilcox_419.txt : The Story
+Wilcox_420.txt : The Summons
+Wilcox_421.txt : The Tavern of Last Times
+Wilcox_422.txt : The Tendril’s Faith
+Wilcox_423.txt : The Traveller
+Wilcox_424.txt : The Undiscovered Country
+Wilcox_425.txt : The Universal Route
+Wilcox_426.txt : The Voice
+Wilcox_427.txt : The Way Of It
+Wilcox_428.txt : The Wild Blue-Bells
+Wilcox_429.txt : The Yellow-Covered Almanac
+Wilcox_430.txt : Limitless
+Wilcox_431.txt : Three And One
+Wilcox_432.txt : Three-Fold
+Wilcox_433.txt : Time Enough
+Wilcox_434.txt : Tis The Set Of The Sail -- Or -- One Ship Sails East
+Wilcox_435.txt : To Men
+Wilcox_436.txt : Transformation
+Wilcox_437.txt : Twilight Thoughts
+Wilcox_438.txt : Two Loves
+Wilcox_439.txt : Two Roses
+Wilcox_440.txt : Two Sinners
+Wilcox_441.txt : Two Women
+Wilcox_442.txt : Until The Night
+Wilcox_443.txt : Upon the Sand
+Wilcox_444.txt : Voice of the Voiceless
+Wilcox_445.txt : What Shall We Do?
+Wilcox_446.txt : Whatever Is - Is Best
+Wilcox_447.txt : When
+Wilcox_448.txt : When I Am Dead
+Wilcox_449.txt : When Love Is Lost
+Wilcox_450.txt : Wherefore
+Wilcox_451.txt : Woman
+Wilcox_452.txt : Woman And War
+Wilcox_453.txt : Womanhood
+Wilcox_454.txt : Worldly Wisdom
+Wilcox_455.txt : Lines from
+Wilcox_456.txt : Lines On H---'s Foot
+Wilcox_457.txt : Listen!
+Wilcox_458.txt : In Memoriam
+Wilcox_459.txt : Little Queen
+Wilcox_460.txt : Long Ago
+Wilcox_461.txt : Lost
+Wilcox_462.txt : Love is Enough
+Wilcox_463.txt : Love Much
+Wilcox_464.txt : Love Song
+Wilcox_465.txt : Love Thyself Last
+Wilcox_466.txt : Love Will Wane
+Wilcox_467.txt : Love's Coming
+Wilcox_468.txt : Love's Language
+Wilcox_469.txt : Love's Supremacy
+Wilcox_470.txt : Master And Servant
+Wilcox_471.txt : In The Cup
+Wilcox_472.txt : In The Garden
+Wilcox_473.txt : Memory's Mansion
+Wilcox_474.txt : In the Long Run
+Wilcox_475.txt : Memory's River
+Wilcox_476.txt : Mesalliance
+Wilcox_477.txt : MIDSUMMER
+Wilcox_478.txt : Momus, God Of Laughter
+Wilcox_479.txt : Morning Prayer
+Wilcox_480.txt : Mother's Kisses
+Wilcox_481.txt : Mother's Loss
+Wilcox_482.txt : Music In The Flat
+Wilcox_483.txt : My Comrade
+Wilcox_484.txt : Idler's Song
+Wilcox_485.txt : My Friend
+Wilcox_486.txt : Independence Ode
+Wilcox_487.txt : My Heritage
+Wilcox_488.txt : My Home
+Wilcox_489.txt : My Ships
+Wilcox_490.txt : My Vision
+Wilcox_491.txt : National Anniversay Ode
+Wilcox_492.txt : New And Old
+Wilcox_493.txt : New Year
+Wilcox_494.txt : Noblesse Oblige
+Wilcox_495.txt : Not Quite The Same
+Wilcox_496.txt : Now I lay Me
+Wilcox_497.txt : Old And New
+Wilcox_498.txt : Individuality
+Wilcox_499.txt : Old Rhythm And Rhyme
+Wilcox_500.txt : Old Times
+Wilcox_501.txt : Older Than You
+Wilcox_502.txt : On Seeing The Diabutsu--At
+Wilcox_503.txt : One By One
+Wilcox_504.txt : One Of Us Two
+Wilcox_505.txt : One Was Taken, And One Was Left
+Wilcox_506.txt : One Woman's History
+Wilcox_507.txt : One Woman's Memory
+Wilcox_508.txt : Only A Sad Mistake
+Wilcox_509.txt : Only a Simple Rhyme
+Wilcox_510.txt : Only A Slight Flirtation
+Wilcox_511.txt : Integrity
+Wilcox_512.txt : Only Dreams
+Wilcox_513.txt : Optimism
+Wilcox_514.txt : Origin Of The Liquor Dealer
+Wilcox_515.txt : Our Atlas
+Wilcox_516.txt : Our Blessings
+Wilcox_517.txt : Our Lives
+Wilcox_518.txt : Out Of The Depths: Written After The Reformation Of A Brilliant And Talented Man
+Wilcox_519.txt : Over The Alley
+Wilcox_520.txt : Over the Banisters
+Wilcox_521.txt : Over The May Hill
+Wilcox_522.txt : Over The Water
+Wilcox_523.txt : Pardoned Out
+Wilcox_524.txt : Peek-A-Boo
+Wilcox_525.txt : Penalty
+Wilcox_526.txt : Perfectness
+Wilcox_527.txt : Perished
+Wilcox_528.txt : PH. Best & Co.'s Lager-Beer
+Wilcox_529.txt : If Christ Came Questioning
+Wilcox_530.txt : Platonic
+Wilcox_531.txt : Possession
+Wilcox_532.txt : Into The World
+Wilcox_533.txt : Poverty And Wealth
+Wilcox_534.txt : Prayer
+Wilcox_535.txt : Preaching Vs. Practice
+Wilcox_536.txt : Introductory Verses
+Wilcox_537.txt : Preparation
+Wilcox_538.txt : Presumption
+Wilcox_539.txt : Progress
+Wilcox_540.txt : Queries
+Wilcox_541.txt : If I Should Die
+Wilcox_542.txt : Recompense
+Wilcox_543.txt : Is It Best?
+Wilcox_544.txt : Recriminatio
+Wilcox_545.txt : Red Carnations
+Wilcox_546.txt : Refuted
+Wilcox_547.txt : Regret
+Wilcox_548.txt : Reply To Rudyard Kipling's Poem: 'he travels the fast who travels alone'
+Wilcox_549.txt : Resigned
+Wilcox_550.txt : Resolve
+Wilcox_551.txt : Response
+Wilcox_552.txt : Reunited
+Wilcox_553.txt : Rich And Poor
+Wilcox_554.txt : River And Sea
+Wilcox_555.txt : Robin's Mistake
+Wilcox_556.txt : Science
+Wilcox_557.txt : Searching
+Wilcox_558.txt : Seeking For Happiness
+Wilcox_559.txt : Sestina
+
+Wordsworth - 355 poems
+
+Wordsworth_001.txt : A Character
+Wordsworth_002.txt : A Complaint
+Wordsworth_003.txt : A Fact, And An Imagination, Or, Canute And Alfred, On The Seashore
+Wordsworth_004.txt : A Flower Garden At Coleorton Hall, Leicestershire.
+Wordsworth_005.txt : A Jewish Family In A Small Valley Opposite St. Goar, Upon The Rhine
+Wordsworth_006.txt : A Morning Exercise
+Wordsworth_007.txt : A Night-Piece
+Wordsworth_008.txt : A Poet! He Hath Put his Heart to School
+Wordsworth_009.txt : A Poet's Epitaph
+Wordsworth_010.txt : A Prophecy.  February 1807
+Wordsworth_011.txt : A Sketch
+Wordsworth_012.txt : A Whirl-Blast from Behind The Hill
+Wordsworth_013.txt : A Wren's Nest
+Wordsworth_014.txt : Address To Kilchurn Castle, Upon Loch Awe
+Wordsworth_015.txt : Address To The Scholars Of The Village School Of ----
+Wordsworth_016.txt : Admonition
+Wordsworth_017.txt : Advance – Come Forth From Thy Tyrolean Ground
+Wordsworth_018.txt : After-Thought
+Wordsworth_019.txt : Ah! Where Is Palafox? Nor Tongue Nor Pen
+Wordsworth_020.txt : Alas! What Boots The Long Laborious Quest
+Wordsworth_021.txt : Alice Fell, Or Poverty
+Wordsworth_022.txt : Among All Lovely Things My Love Had Been
+Wordsworth_023.txt : And Is It Among Rude Untutored Dales
+Wordsworth_024.txt : Andrew Jones
+Wordsworth_025.txt : Anecdote For Fathers
+Wordsworth_026.txt : Animal Tranquillity and Decay
+Wordsworth_027.txt : Anticipation, October 1803
+Wordsworth_028.txt : At Applewaite, Near Keswick 1804
+Wordsworth_029.txt : Avaunt All Specious Pliancy Of Mind
+Wordsworth_030.txt : Beggars
+Wordsworth_031.txt : Bothwell Castle
+Wordsworth_032.txt : Brave Schill! By Death Delivered
+Wordsworth_033.txt : British Freedom
+Wordsworth_034.txt : By the Seaside
+Wordsworth_035.txt : By The Side Of The Grave Some Years After
+Wordsworth_036.txt : Calais, August 15, 1802
+Wordsworth_037.txt : Calais, August 1802
+Wordsworth_038.txt : Call Not The Royal Swede Unfortunate
+Wordsworth_039.txt : Calm is all nature as a resting wheel
+Wordsworth_040.txt : Calm is all Nature as a Resting Wheel.
+Wordsworth_041.txt : Characteristics Of A Child Three Years Old
+Wordsworth_042.txt : Composed After A Journey Across The Hambleton Hills, Yorkshire
+Wordsworth_043.txt : Composed At The Same Time And On The Same Occasion
+Wordsworth_044.txt : Composed By The Sea-Side, Near Calais, August 1802
+Wordsworth_045.txt : Composed In The Valley Near Dover, On The Day Of Landing
+Wordsworth_046.txt : Composed Near Calais, On The Road Leading To Ardres, August 7, 1802
+Wordsworth_047.txt : Composed on The Eve Of The Marriage Of A Friend In The Vale Of Grasmere
+Wordsworth_048.txt : Composed Upon Westminster Bridge, September 3, 1802
+Wordsworth_049.txt : Composed While The Author Was Engaged In Writing A Tract Occasioned By The Convention Of Cintra
+Wordsworth_050.txt : Daffodils
+Wordsworth_051.txt : Desideria
+Wordsworth_052.txt : Elegiac Stanzas
+Wordsworth_053.txt : Elegiac Stanzas Suggested by a Picture of Peele Castle
+Wordsworth_054.txt : Ellen Irwin
+Wordsworth_055.txt : Emperors And Kings, How Oft Have Temples Rung
+Wordsworth_056.txt : England i
+Wordsworth_057.txt : England ii
+Wordsworth_058.txt : England iv
+Wordsworth_059.txt : England v
+Wordsworth_060.txt : England! The Time Is Come When Thou Should’st Wean
+Wordsworth_061.txt : Expostulation and Reply
+Wordsworth_062.txt : Extempore Effusion upon the Death of James Hogg
+Wordsworth_063.txt : Feelings of A French Royalist, On The Disinterment Of The Remains Of The Duke D’Enghien
+Wordsworth_064.txt : Feelings Of A Noble Biscayan At One Of Those Funerals
+Wordsworth_065.txt : Feelings Of The Tyrolese
+Wordsworth_066.txt : Fidelity
+Wordsworth_067.txt : For The Spot Where The Hermitage Stood on St. Herbert's Island, Derwentwater.
+Wordsworth_068.txt : Foresight
+Wordsworth_069.txt : Fountain, The: A Conversation
+Wordsworth_070.txt : From The Dark Chambers Of Dejection Freed
+Wordsworth_071.txt : From The Italian Of Michael Angelo
+Wordsworth_072.txt : George and Sarah Green
+Wordsworth_073.txt : Gipsies
+Wordsworth_074.txt : Hail, Twilight, Sovereign Of One Peaceful Hour
+Wordsworth_075.txt : Here Pause: The Poet Claims At Least This Praise
+Wordsworth_076.txt : Hint From The Mountains For Certain Political Pretenders
+Wordsworth_077.txt : How Sweet It Is, When Mother Fancy Rocks
+Wordsworth_078.txt : I Grieved For Buonaparte
+Wordsworth_079.txt : I Know an Old Man Constrained to Dwell
+Wordsworth_080.txt : I Wandered Lonely as a Cloud
+Wordsworth_081.txt : In Due Observance Of An Ancient Rite
+Wordsworth_082.txt : In The Pass Of Killicranky
+Wordsworth_083.txt : Incident Characteristic Of A Favorite Dog
+Wordsworth_084.txt : Indignation Of A High-Minded Spaniard
+Wordsworth_085.txt : Influence of Natural Objects
+Wordsworth_086.txt : Inscriptions For A Seat In The Groves Of Coleorton
+Wordsworth_087.txt : Inscriptions In The Ground Of Coleorton, The Seat Of Sir George Beaumont, Bart., Leicestershire
+Wordsworth_088.txt : Inscriptions Written with a Slate Pencil upon a Stone
+Wordsworth_089.txt : Invocation To The Earth, February 1816
+Wordsworth_090.txt : Is There A Power That Can Sustain And Cheer
+Wordsworth_091.txt : It Is a Beauteous Evening
+Wordsworth_092.txt : It Is No Spirit Who From Heaven Hath Flown
+Wordsworth_093.txt : It is not to be Thought of
+Wordsworth_094.txt : It was an April morning: fresh and clear
+Wordsworth_095.txt : Lament Of Mary Queen Of Scots
+Wordsworth_096.txt : Lines Left upon a Seat in a Yew-tree
+Wordsworth_097.txt : Lines On The Expected Invasion, 1803
+Wordsworth_098.txt : Lines Written In Early Spring
+Wordsworth_099.txt : London, 1802
+Wordsworth_100.txt : Louisa: After Accompanying Her On A Mountain Excursion
+Wordsworth_101.txt : Lucy Gray
+Wordsworth_102.txt : Lucy i
+Wordsworth_103.txt : Lucy iv
+Wordsworth_104.txt : Matthew
+Wordsworth_105.txt : Memorials Of A Tour In Scotland,
+Wordsworth_106.txt : Memorials of A Tour In Scotland, 1803  I. Departure From The Vale Of Grasmere, August 1803
+Wordsworth_107.txt : Memorials Of A Tour In Scotland, 1803  XII. Sonnet Composed At ---- Castle
+Wordsworth_108.txt : Memorials Of A Tour In Scotland, 1803  XII. Yarrow Unvisited
+Wordsworth_109.txt : Memorials Of A Tour In Scotland, 1803  XIV. Fly, Some Kind Haringer, To Grasmere-Dale
+Wordsworth_110.txt : Memorials Of A Tour Of Scotland, 1803  VI. Glen-Almain, Or, The Narrow Glen
+Wordsworth_111.txt : Memory
+Wordsworth_112.txt : Methought I Saw The Footsteps Of A Throne
+Wordsworth_113.txt : Michael Angelo In Reply To The Passage Upon His Staute Of Sleeping Night
+Wordsworth_114.txt : Minstrels
+Wordsworth_115.txt : Most Sweet it is
+Wordsworth_116.txt : Mutability
+Wordsworth_117.txt : November 1813
+Wordsworth_118.txt : November, 1806
+Wordsworth_119.txt : Nuns Fret Not at Their Convent's Narrow Room
+Wordsworth_120.txt : Nutting
+Wordsworth_121.txt : O Nightingale! Thou Surely Art
+Wordsworth_122.txt : O’er The Wide Earth, On Mountain And On Plain
+Wordsworth_123.txt : O’erweening Statesmen Have Full Long Relied
+Wordsworth_124.txt : Occasioned By The Battle Of Waterloo February 1816
+Wordsworth_125.txt : October, 1803
+Wordsworth_126.txt : Ode Composed On A May Morning
+Wordsworth_127.txt : Ode to Duty
+Wordsworth_128.txt : Ode To Lycoris.  May 1817
+Wordsworth_129.txt : Ode, Composed On A May Morning
+Wordsworth_130.txt : On A Celebrated Event In Ancient History
+Wordsworth_131.txt : On the Departure of Sir Walter Scott from Abbotsford
+Wordsworth_132.txt : On the Extinction of the Venetian Republic
+Wordsworth_133.txt : On The Final Submission Of The Tyrolese
+Wordsworth_134.txt : On The Same Occasion
+Wordsworth_135.txt : Perfect Woman
+Wordsworth_136.txt : Personal Talk
+Wordsworth_137.txt : Picture of Daniel in the Lion's Den at Hamilton Palace
+Wordsworth_138.txt : Power Of Music
+Wordsworth_139.txt : Remembrance of Collins
+Wordsworth_140.txt : Repentance
+Wordsworth_141.txt : Rural Architecture
+Wordsworth_142.txt : Scorn Not the Sonnet
+Wordsworth_143.txt : September 1, 1802
+Wordsworth_144.txt : September 1815
+Wordsworth_145.txt : September, 1819
+Wordsworth_146.txt : She Was a Phantom of Delight
+Wordsworth_147.txt : Siege Of Vienna Raised By John Sobieski
+Wordsworth_148.txt : Song For The Wandering Jew
+Wordsworth_149.txt : Song Of The Spinning Wheel
+Wordsworth_150.txt : Sonnet:
+Wordsworth_151.txt : Sonnet: On seeing Miss Helen Maria Williams weep at a tale of distress
+Wordsworth_152.txt : Spanish Guerillas
+Wordsworth_153.txt : Speak!
+Wordsworth_154.txt : Star-Gazers
+Wordsworth_155.txt : Stepping Westward
+Wordsworth_156.txt : Strange fits of passion have I known
+Wordsworth_157.txt : Stray Pleasures
+Wordsworth_158.txt : Surprised by Joy
+Wordsworth_159.txt : Sweet Was The Walk
+Wordsworth_160.txt : The Birth of Love
+Wordsworth_161.txt : The Childless Father
+Wordsworth_162.txt : The Complaint Of a Forsaken Indian Woman
+Wordsworth_163.txt : The Danish Boy: A Fragment
+Wordsworth_164.txt : The Eagle and the Dove
+Wordsworth_165.txt : The Fairest, Brightest, Hues Of Ether Fade
+Wordsworth_166.txt : The Force Of Prayer, Or, The Founding Of Bolton, A Tradition
+Wordsworth_167.txt : The Fountain
+Wordsworth_168.txt : The French And the Spanish Guerillas
+Wordsworth_169.txt : The French Army In Russia, 1812-13
+Wordsworth_170.txt : The French Revolution as it appeared to Enthusiasts
+Wordsworth_171.txt : The Germans On The Heighs Of Hochheim
+Wordsworth_172.txt : The Green Linnet
+Wordsworth_173.txt : The King Of Sweden
+Wordsworth_174.txt : The Longest Day
+Wordsworth_175.txt : The Martial Courage Of A Day Is Vain
+Wordsworth_176.txt : The Mother's Return
+Wordsworth_177.txt : The Oak Of Guernica Supposed Address To The Same
+Wordsworth_178.txt : The Passing of the Elder Bards
+Wordsworth_179.txt : The Power of Armies Is a Visible Thing
+Wordsworth_180.txt : The Primrose of the Rock
+Wordsworth_181.txt : The Reaper
+Wordsworth_182.txt : The Reverie of Poor Susan
+Wordsworth_183.txt : The Sailor's Mother
+Wordsworth_184.txt : The Seven Sisters
+Wordsworth_185.txt : The Simplon Pass
+Wordsworth_186.txt : The Solitary Reaper
+Wordsworth_187.txt : The Sonnet i
+Wordsworth_188.txt : The Sonnet ii
+Wordsworth_189.txt : The Sparrow's Nest
+Wordsworth_190.txt : The Stars Are Mansions Built By Nature's Hand
+Wordsworth_191.txt : The Table Turned
+Wordsworth_192.txt : The Trosachs
+Wordsworth_193.txt : The Two April Mornings
+Wordsworth_194.txt : The Two Thieves
+Wordsworth_195.txt : The Virgin
+Wordsworth_196.txt : The Waterfall and The Eglantine
+Wordsworth_197.txt : The Wishing Gate
+Wordsworth_198.txt : The World
+Wordsworth_199.txt : The World Is To Much With Us
+Wordsworth_200.txt : The world is too much with us; late and soon
+Wordsworth_201.txt : There Is A Bondage Worse, Far Worse, To Bear
+Wordsworth_202.txt : There is an Eminence,--of these our hills
+Wordsworth_203.txt : There was a Boy
+Wordsworth_204.txt : Those Words Were Uttered As In Pensive Mood
+Wordsworth_205.txt : Though Narrow Be That Old Man’s Cares                                                  .
+Wordsworth_206.txt : Thought Of A Briton On The Subjugation Of Switzerland
+Wordsworth_207.txt : Three Years She Grew in Sun and Shower,
+Wordsworth_208.txt : 'Tis Said, That Some Have Died For Love
+Wordsworth_209.txt : 'Tis said, that some have died for love
+Wordsworth_210.txt : To A Butterfly
+Wordsworth_211.txt : To A Butterfly (2)
+Wordsworth_212.txt : To A Distant Friend
+Wordsworth_213.txt : To a Highland Girl (At Inversneyde, upon Loch Lomond)
+Wordsworth_214.txt : To A Sexton
+Wordsworth_215.txt : To a Sky-Lark
+Wordsworth_216.txt : To A Young Lady Who Had Been Reproached For Taking Long Walks In The Country
+Wordsworth_217.txt : To Dora
+Wordsworth_218.txt : To H. C.
+Wordsworth_219.txt : To Lady Beaumont
+Wordsworth_220.txt : To Lady Eleanor Butler and the Honourable Miss Ponsonby,
+Wordsworth_221.txt : To M.H.
+Wordsworth_222.txt : To My Sister
+Wordsworth_223.txt : To---- On Her First Ascent To The Summit Of Helvellyn
+Wordsworth_224.txt : To Sleep
+Wordsworth_225.txt : To The Cuckoo
+Wordsworth_226.txt : To The Daisy
+Wordsworth_227.txt : To The Daisy (2)
+Wordsworth_228.txt : To The Daisy (fourth poem)
+Wordsworth_229.txt : To The Daisy (third poem)
+Wordsworth_230.txt : To The Memory Of Raisley Calvert
+Wordsworth_231.txt : To The Men Of Kent
+Wordsworth_232.txt : To The Poet, John Dyer
+Wordsworth_233.txt : To The Same (John Dyer)
+Wordsworth_234.txt : To The Same Flower (second poem)
+Wordsworth_235.txt : To The Small Celandine
+Wordsworth_236.txt : To The Spade Of A Friend (An Agriculturist)
+Wordsworth_237.txt : To The Supreme Being From The Italian Of Michael Angelo
+Wordsworth_238.txt : To Thomas Clarkson
+Wordsworth_239.txt : Tribute To The Memory Of The Same Dog
+Wordsworth_240.txt : Upon Perusing The Forgoing Epistle Thirty Years After Its Composition
+Wordsworth_241.txt : Upon The Punishment Of Death
+Wordsworth_242.txt : Upon The Same Event
+Wordsworth_243.txt : Upon The Sight Of A Beautiful Picture Painted By Sir G. H. Beaumont, Bart
+Wordsworth_244.txt : Upon Westminster Bridge
+Wordsworth_245.txt : Valedictory Sonnet to the River Duddon
+Wordsworth_246.txt : View From The Top Of Black Comb
+Wordsworth_247.txt : Water-Fowl Observed Frequently Over The Lakes Of Rydal And Grasmere
+Wordsworth_248.txt : We are Seven
+Wordsworth_249.txt : When I Have Borne In Memory
+Wordsworth_250.txt : Where Lies The Land To Which Yon Ship Must Go?
+Wordsworth_251.txt : Who Fancied What A Pretty Sight
+Wordsworth_252.txt : With How Sad Steps, O Moon, Thou Climb'st the Sky
+Wordsworth_253.txt : With ships the sea was sprinkled
+Wordsworth_254.txt : With ships the sea was sprinkled far and nigh
+Wordsworth_255.txt : Written In A Blank Leaf Of Macpherson's Ossian
+Wordsworth_256.txt : Written in Early Spring
+Wordsworth_257.txt : Written in Germany, On One of The Coldest Days Of The Century
+Wordsworth_258.txt : Written in London. September, 1802
+Wordsworth_259.txt : Written In Very Early Youth
+Wordsworth_260.txt : Written With a Pencil Upon a Stone In The Wall of The House, On The Island at Grasmere
+Wordsworth_261.txt : Yarrow Unvisited
+Wordsworth_262.txt : Yarrow Visited
+Wordsworth_263.txt : Yew-Trees
+Wordsworth_264.txt : Young England--What Is Then Become Of Old
+Wordsworth_265.txt : Adieu, Rydalian Laurels! That Have Grown
+Wordsworth_266.txt : They Called Thee Merry England, In Old Time
+Wordsworth_267.txt : "There!" Said A Stripling, Pointing With Meet Pride
+Wordsworth_268.txt : A Flower Garden - At Coleorton Hall, Leicestershire.
+Wordsworth_269.txt : A Whirl-Blast From Behind The Hill
+Wordsworth_270.txt : Address To A Child During A Boisterous Winter By My Sister
+Wordsworth_271.txt : Address To The Scholars Of The Village School Of ---
+Wordsworth_272.txt : Animal Tranquility And Decay
+Wordsworth_273.txt : The Power of Armies is a Visible Thing
+Wordsworth_274.txt : Scorn not the Sonnet
+Wordsworth_275.txt : Sonnets from The River Duddon: After-Thought
+Wordsworth_276.txt : The Tables Turned
+Wordsworth_277.txt : Three Years She Grew
+Wordsworth_278.txt : To the Cuckoo
+Wordsworth_279.txt : We Are Seven
+Wordsworth_280.txt : "Why art thou silent!  Is thy love a plant"
+Wordsworth_281.txt : The World Is Too Much With Us
+Wordsworth_282.txt : Yarrow Visited. September, 1814
+Wordsworth_283.txt : Composed upon Westminster Bridge, September 3, 1802
+Wordsworth_284.txt : Elegiac Stanzas Suggested by a Picture of Peele Castle in a Storm, Painted by Sir George Beaumont
+Wordsworth_285.txt : The French Revolution as It Appeared to Enthusiasts at Its Commencement
+Wordsworth_286.txt : Influence of Natural Objects in Calling Forth and Strengthening the Imagination in Boyhood and Early Youth
+Wordsworth_287.txt : It is a Beauteous Evening, Calm and Free
+Wordsworth_288.txt : Lines Written in Early Spring
+Wordsworth_289.txt : Nuns Fret Not at Their Convent’s Narrow Room
+Wordsworth_290.txt : On the Departure of Sir Walter Scott from Abbotsford, for Naples
+Wordsworth_291.txt : By The Seaside
+Wordsworth_292.txt : Composed Upon Westminster Bridge
+Wordsworth_293.txt : Crusaders
+Wordsworth_294.txt : Elegiac Stanzas Suggested By A Picture Of Peele Castle
+Wordsworth_295.txt : Ellen Irwin Or The Braes Of Kirtle
+Wordsworth_296.txt : England! The Time Is Come When Thou Should'st Wean
+Wordsworth_297.txt : Feelings of A French Royalist, On The Disinterment Of The Remains Of The Duke D'Enghien
+Wordsworth_298.txt : I Know an Aged Man Constrained to Dwell
+Wordsworth_299.txt : Lines Left Upon The Seat Of A Yew-Tree,
+Wordsworth_300.txt : Lucy Gray [or Solitude]
+Wordsworth_301.txt : Memorials of A Tour In Scotland, 1803 I. Departure From The Vale Of Grasmere, August 1803
+Wordsworth_302.txt : Memorials Of A Tour In Scotland, 1803 XII. Sonnet Composed At ---- Castle
+Wordsworth_303.txt : Memorials Of A Tour In Scotland, 1803 XII. Yarrow Unvisited
+Wordsworth_304.txt : Memorials Of A Tour In Scotland, 1803 XIV. Fly, Some Kind Haringer, To Grasmere-Dale
+Wordsworth_305.txt : Memorials Of A Tour Of Scotland, 1803 VI. Glen-Almain, Or, The Narrow Glen
+Wordsworth_306.txt : O'er The Wide Earth, On Mountain And On Plain
+Wordsworth_307.txt : O'erweening Statesmen Have Full Long Relied
+Wordsworth_308.txt : Ode To Lycoris. May 1817
+Wordsworth_309.txt : Remembrance Of
+Wordsworth_310.txt : Scorn Not The Sonnet
+Wordsworth_311.txt : She Was A Phantom Of Delight
+Wordsworth_312.txt : Siege Of Vienna Raised By Jihn Sobieski
+Wordsworth_313.txt : Song Of The Wandering Jew
+Wordsworth_314.txt : Sonnet: "It is not to be thought of"
+Wordsworth_315.txt : Stanzas
+Wordsworth_316.txt : Strange Fits of Passion Have I Known
+Wordsworth_317.txt : Surprised By Joy
+Wordsworth_318.txt : " As faith thus sanctified the warrior's crest"
+Wordsworth_319.txt : "Advance - Come Forth From Thy Tyrolean Ground"
+Wordsworth_320.txt : "And Is It Among Rude Untutored Dales"
+Wordsworth_321.txt : "Avaunt All Specious Pliancy Of Mind"
+Wordsworth_322.txt : "Behold Vale! I Said, When I Shall Con"
+Wordsworth_323.txt : "Brave Schill! By Death Delivered"
+Wordsworth_324.txt : "Brook! Whose Society The Poet Seeks"
+Wordsworth_325.txt : "Call Not The Royal Swede Unfortunate"
+Wordsworth_326.txt : "When I Have Borne In Memory"
+Wordsworth_327.txt : "Young England--What Is Then Become Of Old"
+Wordsworth_328.txt : A Poet! He Hath Put His Heart To School
+Wordsworth_329.txt : A Prophecy. February 1807
+Wordsworth_330.txt : The Birth Of Love
+Wordsworth_331.txt : The Complaint Of A Forsaken Indian Woman
+Wordsworth_332.txt : The Danish Boy
+Wordsworth_333.txt : The Happy Warrior
+Wordsworth_334.txt : The Redbreast Chasing The Butterfly
+Wordsworth_335.txt : The Two Thieves; Or, The Last Stage Of Avarice
+Wordsworth_336.txt : The Vaudois
+Wordsworth_337.txt : The Waterfall And The Eglantine
+Wordsworth_338.txt : The Wishing Gate Destroyed
+Wordsworth_339.txt : There Was A Boy
+Wordsworth_340.txt : Though Narrow Be That Old Man's Cares .
+Wordsworth_341.txt : Three Years She Grew in Sun and Shower
+Wordsworth_342.txt : To The Same Flower
+Wordsworth_343.txt : To Toussaint L'Ouverture
+Wordsworth_344.txt : With Ships the Sea was Sprinkled Far and Nigh
+Wordsworth_345.txt : Written In Germany On One Of The Coldest Days Of The Century
+Wordsworth_346.txt : Written With A Slate Pencil On A Stone, On The Side Of The Mountain Of Black Comb
+Wordsworth_347.txt : I Wandered Lonely As A Cloud
+Wordsworth_348.txt : Calm is all Nature as a Resting Wheel
+Wordsworth_349.txt : Lucy poems pt 1 (Strange Fits of Passion Have I Known)
+Wordsworth_350.txt : A Whirl-Blast from Behind the Hill
+Wordsworth_351.txt : Lucy poems pt3 (Three Years She Grew in Sun and Shower,)
+Wordsworth_352.txt : Animal Tranquility and Decay
+Wordsworth_353.txt : Composed upon Westminster Bridge...
+Wordsworth_354.txt : Of a Forsaken Indian Woman
+Wordsworth_355.txt : The Daffodils
