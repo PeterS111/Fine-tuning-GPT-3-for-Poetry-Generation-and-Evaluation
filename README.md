@@ -19,7 +19,7 @@ Thomas Hardy, 1840–1928, England
 
 Datasets include only the poems of the above authors that are between 100 and 500 words in length.
 
-Dataset include:
+Datasets include:
 
 1. Collection of poems without summaries and themes, with separate folders for each author, with a detailed list of these poems (number of poems per author varies).
 2. Collection of poems with GPT-3.5 -generated summaries and themes for each poem, with separate folders for each author (300 poems per author), with a detailed list of these poems.
