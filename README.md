@@ -7,21 +7,21 @@ due to be published in ICCC'23 Proceedings.
 
 All poems in the Datasets are out of copyrights, and have been scraped from https://gutenberg.org/ and https://www.poetryfoundation.org/ .
 
-Poets included in the Datasets are:
+  Poets included in the Datasets are:
 
-Ella Wheeler Wilcox, 1850–1919, United States
+  Ella Wheeler Wilcox, 1850–1919, United States
 
-Rudyard Kipling, 1865–1936, England
+  Rudyard Kipling, 1865–1936, England
 
-Emily Dickinson, 1830–1886, United States 
+  Emily Dickinson, 1830–1886, United States 
 
-Lord Byron, 1788–1824, England/Italy
+  Lord Byron, 1788–1824, England/Italy
 
-William Wordsworth, 1770–1850, England
+  William Wordsworth, 1770–1850, England
 
-Walt Whitman, 1819–1892, United States 
+  Walt Whitman, 1819–1892, United States 
 
-Thomas Hardy, 1840–1928, England
+  Thomas Hardy, 1840–1928, England
 
 
 Datasets include only the poems of the above authors that are between 100 and 500 words in length.
