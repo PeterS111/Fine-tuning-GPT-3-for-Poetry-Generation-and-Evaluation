@@ -9,7 +9,7 @@ All poems in the Datasets are out of copyrights, and have been scraped from http
 
   Poets included in the Datasets are:
 
-  Ella Wheeler Wilcox, 1850–1919, United States
+  * Ella Wheeler Wilcox, 1850–1919, United States
 
   Rudyard Kipling, 1865–1936, England
 
