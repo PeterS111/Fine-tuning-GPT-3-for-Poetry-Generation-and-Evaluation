@@ -38,3 +38,8 @@ Datasets include:
 For detailed explanation of the dataset please refer to the paper mentioned above. 
 
 
+Code includes: 
+
+1. Notebook for preparing .jsonl files (to be used for GPT-3 fine-tuning) from our datasets
+2. Notebook for fine-tuning GPT-3
+3. Notebook for generating poetry from the fine-tuned models
