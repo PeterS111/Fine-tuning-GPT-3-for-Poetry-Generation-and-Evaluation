@@ -42,7 +42,7 @@ Datasets include:
 
 * Christina Rossetti, 1830–1894, England - 150 poems wtih summaries and themes
 
-Datsets for both additional authors include 150 poems with summaries and themes for each author
+Datasets for both additional authors include 150 poems with summaries and themes for each author, with a detailed list of poems for each author.
 
 For detailed explanation of the dataset please refer to the paper mentioned above. 
 
