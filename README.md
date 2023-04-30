@@ -9,7 +9,7 @@ due to be published in ICCC'23 Proceedings.
 
 link: https://github.com/PeterS111/Fine-tuning-GPT-3-for-Poetry-Generation-and-Evaluation/blob/main/sawicki2023gptpoetry.pdf
 
-## Datasets
+### Datasets
 
 All poems in the Datasets are out of copyrights, and have been scraped from https://gutenberg.org/ and https://www.poetryfoundation.org/ .
 
@@ -48,7 +48,7 @@ Datasets for both additional authors include 150 poems with summaries and themes
 
 For detailed explanation of the dataset please refer to the paper mentioned above. 
 
-## Code
+### Code
 
 Code includes: 
 
