@@ -1,6 +1,7 @@
 # Fine-tuning-GPT-3-for-Poetry-Generation-and-Evaluation
 
 version: 2023.04.28
+author: PeterS
 
 This repository contains the datasets and code for the paper "On the power of special-purpose GPT models to create and evaluate new poetry in old styles" by Piotr Sawicki, Marek Grześ, Fabricio Goes, Dan Brown, Max Peeperkorn, Aisha Khatun, Simona Paraskevopoulou
 due to be published in ICCC'23 Proceedings.
