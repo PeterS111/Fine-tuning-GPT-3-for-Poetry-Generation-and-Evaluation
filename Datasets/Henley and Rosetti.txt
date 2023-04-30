@@ -1,0 +1,305 @@
+Henley:
+
+Henley_001.txt : XXVIII:Discharged
+Henley_002.txt : XXIV: Suicide
+Henley_003.txt : XXIII: Music
+Henley_004.txt : XXII: Pastoral
+Henley_005.txt : XXI: Romance
+Henley_006.txt : XX: Visitor
+Henley_007.txt : XVIIII: Scrubber
+Henley_008.txt : XVIII: Children: Private Ward
+Henley_009.txt : XVII: Interlude
+Henley_010.txt : XV: The Chief
+Henley_011.txt : XIII: Casualty
+Henley_012.txt : XII: Etching
+Henley_013.txt : XI: Clinical
+Henley_014.txt : IX: Lady Probationer
+Henley_015.txt : VIII: Staff Nurse:Old Style
+Henley_016.txt : VII: Vigil
+Henley_017.txt : VI: After
+Henley_018.txt : V: Operation
+Henley_019.txt : IV: Before
+Henley_020.txt : I: Enter Patient
+Henley_021.txt : London Types : Bus Driver
+Henley_022.txt : Where Forlorn Sunsets Flare.....
+Henley_023.txt : When you are old.....
+Henley_024.txt : The Ways of Death.....
+Henley_025.txt : On the Way to Kew...
+Henley_026.txt : The Gods are Dead?.......
+Henley_027.txt : Friends.... old Friends......
+Henley_028.txt : Double Ballad of Life and Death (Fragment)
+Henley_029.txt : A Love by the Sea
+Henley_030.txt : Casualty
+Henley_031.txt : Children: Private Ward
+Henley_032.txt : Clinical
+Henley_033.txt : Croquis
+Henley_034.txt : Discharged
+Henley_035.txt : I Am The Reaper
+Henley_036.txt : Double Ballad Of Life And Death
+Henley_037.txt : Double Ballade On The Nothingness Of Things
+Henley_038.txt : Double Ballade on the Nothingness of Things
+Henley_039.txt : England, My England
+Henley_040.txt : Enter Patient
+Henley_041.txt : Envoy--To Charles Baxter
+Henley_042.txt : Epilogue
+Henley_043.txt : Etching
+Henley_044.txt : Fresh From His Fastnesses
+Henley_045.txt : Friends.... Old Friends......
+Henley_046.txt : I am the Reaper
+Henley_047.txt : Grave
+Henley_048.txt : I. M. R. T. Hamilton Bruce (1846-1899)
+Henley_049.txt : If I Were King
+Henley_050.txt : A Dainty Thing's The Villanelle
+Henley_051.txt : A Desolate Shore
+Henley_052.txt : A Late Lark Twitters From The Quiet Skies
+Henley_053.txt : A Love By The Sea
+Henley_054.txt : A New Song to an Old Tune
+Henley_055.txt : After
+Henley_056.txt : As Like The Woman As You Can
+Henley_057.txt : At Queensferry
+Henley_058.txt : Attadale, West Highlands
+Henley_059.txt : Ballade Made In The Hot Weather
+Henley_060.txt : Ballade Of A Toyokuni Colour-Print
+Henley_061.txt : Ballade of Dead Actors
+Henley_062.txt : Ballade Of Midsummer Days And Nights
+Henley_063.txt : Ballade Of Truisms
+Henley_064.txt : Ballade Of Youth And Age
+Henley_065.txt : Barmaid
+Henley_066.txt : Before
+Henley_067.txt : Between the Dusk of a Summer Night
+Henley_068.txt : Blithe Dreams Arise To Greet Us
+Henley_069.txt : In Fisherrow
+Henley_070.txt : In The Dials
+Henley_071.txt : In The Placid Summer Midnight
+Henley_072.txt : In The Waste Hour
+Henley_073.txt : In The Year That's Come and Gone
+Henley_074.txt : Interlude
+Henley_075.txt : Invictus
+Henley_076.txt : It Came With The Threat Of A Waning Moon
+Henley_077.txt : Lady Probationer
+Henley_078.txt : Last Post
+Henley_079.txt : Let Us Be Drunk
+Henley_080.txt : London Types:
+Henley_081.txt : London Types: Barmaid
+Henley_082.txt : London Types: Beef-Eater
+Henley_083.txt : London Types: Bus Driver
+Henley_084.txt : London Types: Drum-Major
+Henley_085.txt : London Types: Flower-Girl
+Henley_086.txt : London Types: Hawker
+Henley_087.txt : London Types: 'Liza
+Henley_088.txt : London Types: Mounted Police
+Henley_089.txt : London Types: News Boy
+Henley_090.txt : London Types: Sandwich-Man
+Henley_091.txt : London Types:Life-Guardsman
+Henley_092.txt : Margaritae Sorori
+Henley_093.txt : Midsummer Midnight Skies
+Henley_094.txt : Music
+Henley_095.txt : Not To The Staring Day
+Henley_096.txt : O, Falmouth Is a Fine Town
+Henley_097.txt : O, Time And Change, They Range And Range
+Henley_098.txt : On The Way To Kew
+Henley_099.txt : Operation
+Henley_100.txt : Out Of The Night That Covers Me
+Henley_101.txt : Over the Hills and Far Away
+Henley_102.txt : Pastoral
+Henley_103.txt : Pro Rege Nostro
+Henley_104.txt : Prologue
+Henley_105.txt : Romance
+Henley_106.txt : Scrubber
+Henley_107.txt : Space And Dread and The Dark
+Henley_108.txt : Staff Nurse:Old Style
+Henley_109.txt : Suicide
+Henley_110.txt : The Chief
+Henley_111.txt : The Gods Are Dead
+Henley_112.txt : The Past Was Goodly Once
+Henley_113.txt : The Rain and the Wind
+Henley_114.txt : The Spirit Of Wine
+Henley_115.txt : The Wan Sun Westers, Faint And Slow
+Henley_116.txt : The Ways Are Green
+Henley_117.txt : The Ways Of Death Are Soothing And Serene
+Henley_118.txt : The West A Glimmering Lake Of Light
+Henley_119.txt : There's a Regret
+Henley_120.txt : Time And The Earth
+Henley_121.txt : To My Mother
+Henley_122.txt : To:  W A
+Henley_123.txt : Tree, Old Tree Of The Triple Crook
+Henley_124.txt : Trees And The Menace Of Night
+Henley_125.txt : Unconquerable
+Henley_126.txt : Under A Stagnant Sky
+Henley_127.txt : Vigil
+Henley_128.txt : Villanelle
+Henley_129.txt : Villon's Straight Tip to All Cross Coves
+Henley_130.txt : Visitor
+Henley_131.txt : We Are The Choice Of The Will
+Henley_132.txt : We'll go No More A-Roving
+Henley_133.txt : What Have I Done For You
+Henley_134.txt : What Is To Come
+Henley_135.txt : When The Wind Storms By With A Shout
+Henley_136.txt : When You Are Old
+Henley_137.txt : When You Wake In Your Crib
+Henley_138.txt : Where Forlorn Sunsets Flare And Fade
+Henley_139.txt : You Played And Sang A Snatch Of Song
+Henley_140.txt : Admiral Guinea
+Henley_141.txt : At Queensferry - To W. G. S.
+Henley_142.txt : Attadale West Highlands - To A. J.
+Henley_143.txt : Ballade (Double Refrain) Of Midsummer Days And Nights - To W. H.
+Henley_144.txt : Ballade (Double Refrain) Of Youth And Age - I. M. Thomas Edward Brown
+Henley_145.txt : London Types: "Lady"
+Henley_146.txt : Staff Nurse: Old Style
+Henley_147.txt : To: W A
+Henley_148.txt : Here They Trysted, And Here They Strayed
+Henley_149.txt : Unconquered
+Henley_150.txt : Villon's Straight Tip To All Cross Coves
+
+Rosetti:
+
+Rosetti_001.txt : Summer
+Rosetti_002.txt : Sweet Death
+Rosetti_003.txt : A Summer Wish
+Rosetti_004.txt : A Year's Windfalls
+Rosetti_005.txt : Advent
+Rosetti_006.txt : Aloof
+Rosetti_007.txt : An Apple-Gathering
+Rosetti_008.txt : An Echo from Willowood
+Rosetti_009.txt : An End
+Rosetti_010.txt : Another Spring
+Rosetti_011.txt : At Home
+Rosetti_012.txt : Autumn Violets
+Rosetti_013.txt : Before The Paling Of The Stars
+Rosetti_014.txt : Beneath Thy Cross
+Rosetti_015.txt : Bird Or Beast?
+Rosetti_016.txt : Bride Song
+Rosetti_017.txt : Bride Song (From 'The Prince's Progress')
+Rosetti_018.txt : Child's Talk In April
+Rosetti_019.txt : Christian And Jew
+Rosetti_020.txt : Cobwebs
+Rosetti_021.txt : Come Unto Me
+Rosetti_022.txt : Conference Between Christ, The Saints, And The Soul
+Rosetti_023.txt : Consider
+Rosetti_024.txt : Consider The Lilies Of The Field
+Rosetti_025.txt : Cousin Kate
+Rosetti_026.txt : Dead Before Death
+Rosetti_027.txt : Death's Chill Between
+Rosetti_028.txt : Despised And Rejected
+Rosetti_029.txt : Dost Thou Not Care?
+Rosetti_030.txt : Dream-Love
+Rosetti_031.txt : Easter Even
+Rosetti_032.txt : Eve
+Rosetti_033.txt : Fluttered Wings
+Rosetti_034.txt : From “Later Life”
+Rosetti_035.txt : From Sunset to Star Rise
+Rosetti_036.txt : Good Friday
+Rosetti_037.txt : Grown And Flown
+Rosetti_038.txt : Heart's Chill Between
+Rosetti_039.txt : Herself A Rose Who Bore The Rose
+Rosetti_040.txt : I Know You Not
+Rosetti_041.txt : If
+Rosetti_042.txt : If Only
+Rosetti_043.txt : In An Artist's Studio
+Rosetti_044.txt : In the Bleak Midwinter
+Rosetti_045.txt : In The Round Tower At Jhansi
+Rosetti_046.txt : In The Willow Shade
+Rosetti_047.txt : Jesus, Do I Love Thee?
+Rosetti_048.txt : L. e. l.
+Rosetti_049.txt : Lady Maggie
+Rosetti_050.txt : Last Night
+Rosetti_051.txt : Later life
+Rosetti_052.txt : Let Me Go
+Rosetti_053.txt : Life And Death
+Rosetti_054.txt : Light Love
+Rosetti_055.txt : Love From The North
+Rosetti_056.txt : Maiden May
+Rosetti_057.txt : Marvel of Marvels
+Rosetti_058.txt : Maude Clare
+Rosetti_059.txt : Memory
+Rosetti_060.txt : Minnie And Mattie
+Rosetti_061.txt : Mother Country
+Rosetti_062.txt : My Dream
+Rosetti_063.txt : No, Thank You John
+Rosetti_064.txt : Noble Sisters
+Rosetti_065.txt : Old And New Year Ditties
+Rosetti_066.txt : Once For All
+Rosetti_067.txt : One And One Are Two
+Rosetti_068.txt : One Day
+Rosetti_069.txt : Paradise: In A Dream
+Rosetti_070.txt : Paradise: In A Symbol
+Rosetti_071.txt : Passing away, saith the World
+Rosetti_072.txt : Promises Like Pie-Crust
+Rosetti_073.txt : Symbols
+Rosetti_074.txt : The First Day
+Rosetti_075.txt : Uphill
+Rosetti_076.txt : Rest
+Rosetti_077.txt : Twice
+Rosetti_078.txt : The Prince's Progress (excerpt)
+Rosetti_079.txt : The First Spring Day
+Rosetti_080.txt : The Hour And The Ghost
+Rosetti_081.txt : The Love Of Christ Which Passeth Kowledge
+Rosetti_082.txt : The Offering Of The New Law, The One Oblation Once Offered
+Rosetti_083.txt : The One Certainty
+Rosetti_084.txt : The Queen Of Hearts
+Rosetti_085.txt : The Skylark
+Rosetti_086.txt : They Desire A Better Country
+Rosetti_087.txt : Twilight Calm
+Rosetti_088.txt : Twilight Night
+Rosetti_089.txt : Venus's Looking-Glass
+Rosetti_090.txt : Weary In Well-Doing
+Rosetti_091.txt : Who shall deliver me?
+Rosetti_092.txt : Wife To Husband
+Rosetti_093.txt : Winter Rain
+Rosetti_094.txt : Winter: My Secret
+Rosetti_095.txt : What Would I Give
+Rosetti_096.txt : Seasons
+Rosetti_097.txt : An Apple Gathering
+Rosetti_098.txt : Remember
+Rosetti_099.txt : A Christmas Carol
+Rosetti_100.txt : The Ghost's Petition
+Rosetti_101.txt : A Birthday
+Rosetti_102.txt : The Hour and the Ghost
+Rosetti_103.txt : Monna Innominata [I dream of you, to wake]
+Rosetti_104.txt : The Poor Ghost
+Rosetti_105.txt : Monna Innominata [I wish I could remember]
+Rosetti_106.txt : Christmas Day
+Rosetti_107.txt : Monna Innominata [I loved you first]
+Rosetti_108.txt : Up-Hill
+Rosetti_109.txt : At Last
+Rosetti_110.txt : A Triad
+Rosetti_111.txt : The World
+Rosetti_112.txt : Lady Montrevor
+Rosetti_113.txt : Echo
+Rosetti_114.txt : [Sonnets are full of love, and this my tome]
+Rosetti_115.txt : An October Garden
+Rosetti_116.txt : A Chilly Night
+Rosetti_117.txt : Autumn
+Rosetti_118.txt : The Thread of Life
+Rosetti_119.txt : Shut Out
+Rosetti_120.txt : Silent Noon
+Rosetti_121.txt : Passing away, Saith the World
+Rosetti_122.txt : A Study (A Soul)
+Rosetti_123.txt : The Three Enemies
+Rosetti_124.txt : A Better Resurrection
+Rosetti_125.txt : After Death
+Rosetti_126.txt : Dream Land
+Rosetti_127.txt : Amor Mundi
+Rosetti_128.txt : From the Antique
+Rosetti_129.txt : "I loved you first: but afterwards your love"
+Rosetti_130.txt : In an Artist's Studio
+Rosetti_131.txt : In the bleak midwinter
+Rosetti_132.txt : No, Thank You, John
+Rosetti_133.txt : A Better Ressurection
+Rosetti_134.txt : A Bird's-Eye View
+Rosetti_135.txt : A Bruised Reed Shall He Not Break
+Rosetti_136.txt : A Dream
+Rosetti_137.txt : A Farm Walk
+Rosetti_138.txt : A Frog's Fate
+Rosetti_139.txt : A Green Cornfield
+Rosetti_140.txt : A Hope Carol
+Rosetti_141.txt : A Pause
+Rosetti_142.txt : A Pause Of Thought
+Rosetti_143.txt : A Peal Of Bells
+Rosetti_144.txt : A Pin Has A Head, But Has No Hair
+Rosetti_145.txt : A Portrait
+Rosetti_146.txt : A Ring Posy
+Rosetti_147.txt : A Rose Has Thorns As Well As Honey
+Rosetti_148.txt : Sonnets are full of love
+Rosetti_149.txt : Sound Sleep
+Rosetti_150.txt : Spring
