@@ -38,9 +38,9 @@ Datasets include:
 4. .jsonl files for each separate author (7 files) and combined .jsonl file of all authors. These files are ready to be used for fine-tuning GPT-3.
 5. Additional authors:
 
-* William Ernest Henley, 1849–1903, England - 150 poems wtih summaries and themes
+* William Ernest Henley, 1849–1903, England
 
-* Christina Rossetti, 1830–1894, England - 150 poems wtih summaries and themes
+* Christina Rossetti, 1830–1894, England
 
 Datasets for both additional authors include 150 poems with summaries and themes for each author, with a detailed list of poems for each author.
 
